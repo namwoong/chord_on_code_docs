@@ -1,4 +1,6 @@
-[
+{
+    "version": 1,
+    "products": [ 
  {
   "productId": 0,
   "brand": "농심",
@@ -1961,4 +1963,5 @@
   "imagePath": "https://www.samyangfoods.com/upload/product/20210528/20210528171915300428.jpg",
   "shopUrl": null
  }
-]
+]     
+}

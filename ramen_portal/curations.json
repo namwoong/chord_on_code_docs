@@ -58,13 +58,13 @@
       "groupId": 1,
       "title": "잘 나가는 것만 골라 먹자",
       "subTitle": "라면매출 순위",
-      "curationIds": [1, 2, 3, 4, 5, 6]
+      "curationIds": [13, 14, 15, 16, 17, 18, 19, 20]
     },
     {
       "groupId": 2,
       "title": "라면과 함께 세계여행",
       "subTitle": "세계여행",
-      "curationIds": [1, 2, 3, 4, 5, 6]
+      "curationIds": [21, 22, 23, 24, 25]
     }
   ],
   "curations": [
@@ -219,21 +219,42 @@
       "curationId": 22,
       "title": "세계여행 - 베트남편",
       "subTitle": "베트남",
-      "productIds": [1, 2, 3, 4, 5, 6],
+      "productIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
       "backgroundImage": ""
     },
     {
       "curationId": 23,
       "title": "세계여행 - 인도편",
       "subTitle": "인도",
-      "productIds": [1, 2, 3, 4, 5, 6],
+      "productIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
       "backgroundImage": ""
     },
     {
       "curationId": 24,
       "title": "세계여행 - 일본편",
       "subTitle": "일본",
-      "productIds": [1, 2, 3, 4, 5, 6],
+      "productIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "backgroundImage": ""
+    },
+    {
+      "curationId": 25,
+      "title": "세계여행 - 이탈리아편",
+      "subTitle": "이탈리아",
+      "productIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "backgroundImage": ""
+    },
+    {
+      "curationId": 26,
+      "title": "이젠 라면도 건강을 챙겨야지",
+      "subTitle": "밀가루 FREE",
+      "productIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "backgroundImage": ""
+    },
+    {
+      "curationId": 26,
+      "title": "연인과 함께 라면을",
+      "subTitle": "라면먹고갈래",
+      "productIds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
       "backgroundImage": ""
     }
   ]

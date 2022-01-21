@@ -37,9 +37,9 @@
         "description": "누구나 쉽게 연출할 수 있는 근사한 시낙",
         "imageUrl": "https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80",
         "youtubeId": "2blPjkGbV_0",
-        "time": 30
+        "time": 30,
         "level": 2,
-        "incredients": ["베이컨 1줄", "햄 2장", "계란 1개", "감자 2개"],
+        "ingredients": ["베이컨 1줄", "햄 2장", "계란 1개", "감자 2개"],
         "steps": [
           "1. 감자는 껍질을 제외하고 채썰어 찬물에 담궈 주세요.",
           "2. 베이컨을 잘게 썰어 팬에 볶아 기름기를 빼주세요. 다른 햄을 추가해 주시면 더욱 맛있어요.",
@@ -52,9 +52,9 @@
         "description": "누구나 쉽게 연출할 수 있는 근사한 시낙",
         "imageUrl": "https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80",
         "youtubeId": "2blPjkGbV_0",
-        "time": 60
+        "time": 60,
         "level": 3,
-        "incredients": ["쪽파 약간", "파슬리 약간", "그라나파다노치즈 20g", "부침가루 2큰술"],
+        "ingredients": ["쪽파 약간", "파슬리 약간", "그라나파다노치즈 20g", "부침가루 2큰술"],
         "steps": [
           "1. 감자는 껍질을 제외하고 채썰어 찬물에 담궈 주세요.",
           "2. 베이컨을 잘게 썰어 팬에 볶아 기름기를 빼주세요. 다른 햄을 추가해 주시면 더욱 맛있어요.",

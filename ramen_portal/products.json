@@ -8212,54 +8212,6 @@
  },
  {
   "productId": 342,
-  "brand": "미정",
-  "title": "쌀국수 해물맛",
-  "hashtags": "쌀국수해물맛",
-  "kcal": 298,
-  "time": 300,
-  "type": "컵",
-  "water": null,
-  "ingredient": null,
-  "weight": 92,
-  "released": null,
-  "carbohydrate": "63g(19%)",
-  "saccharide": "4g(4%)",
-  "protein": "7g(12%)",
-  "fat": "1g(2%)",
-  "saturatedFat": "0.5g(3%)",
-  "transFat": "0g",
-  "cholesterol": "11mg(4%)",
-  "sodium": "1860mg(93%)",
-  "calcium": "-",
-  "imagePath": null,
-  "shopUrl": null
- },
- {
-  "productId": 343,
-  "brand": "굿지엔",
-  "title": "강호동의화끈하고통큰라면컵",
-  "hashtags": "강호동의화끈하고통큰라면",
-  "kcal": 495,
-  "time": 210,
-  "type": "컵",
-  "water": null,
-  "ingredient": null,
-  "weight": 110,
-  "released": null,
-  "carbohydrate": null,
-  "saccharide": "4g(4%)",
-  "protein": null,
-  "fat": "20g(39%)",
-  "saturatedFat": "10g(67%)",
-  "transFat": "0g",
-  "cholesterol": "3mg(1%)",
-  "sodium": "2300mg(115%)",
-  "calcium": "-",
-  "imagePath": null,
-  "shopUrl": null
- },
- {
-  "productId": 344,
   "brand": "카카오",
   "title": "카카오프렌즈어피치봉골라면",
   "hashtags": "카카오프렌즈어피치봉골라면",
@@ -8283,7 +8235,7 @@
   "shopUrl": null
  },
  {
-  "productId": 345,
+  "productId": 343,
   "brand": "카카오",
   "title": "카카오프렌즈라이언화끈라면",
   "hashtags": "카카오프렌즈라이언화끈라면",
@@ -8307,7 +8259,7 @@
   "shopUrl": null
  },
  {
-  "productId": 346,
+  "productId": 344,
   "brand": "쿠팡",
   "title": "쿠팡곰곰호로록매콤라면",
   "hashtags": "쿠팡곰곰호로록매콤라면",
@@ -8331,7 +8283,7 @@
   "shopUrl": null
  },
  {
-  "productId": 347,
+  "productId": 345,
   "brand": "쿠팡",
   "title": "쿠팡곰곰호로록짬뽕라면",
   "hashtags": "쿠팡곰곰호로록짬뽕라면",
@@ -8355,7 +8307,7 @@
   "shopUrl": null
  },
  {
-  "productId": 348,
+  "productId": 346,
   "brand": "쿠팡",
   "title": "쿠팡곰곰호로록짜장라면",
   "hashtags": "쿠팡곰곰호로록짜장라면",
@@ -8379,7 +8331,7 @@
   "shopUrl": null
  },
  {
-  "productId": 349,
+  "productId": 347,
   "brand": "준코",
   "title": "준코라면",
   "hashtags": "준코라면",
@@ -8403,7 +8355,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5587855254&itemId=8951641500&vendorItemId=76238159899"
  },
  {
-  "productId": 350,
+  "productId": 348,
   "brand": "두런",
   "title": "두런스토어끄리랑파도치탕면",
   "hashtags": "끄리랑파도치탕면",
@@ -8427,7 +8379,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6058369568&itemId=11129809501&vendorItemId=78408412460"
  },
  {
-  "productId": 351,
+  "productId": 349,
   "brand": "두런",
   "title": "두런스토어끄리랑훅치면",
   "hashtags": "끄리랑훅치면",
@@ -8451,7 +8403,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6058381274&itemId=11129859339&vendorItemId=78408461391"
  },
  {
-  "productId": 352,
+  "productId": 350,
   "brand": "군산농협",
   "title": "군산짬뽕",
   "hashtags": "군산짬뽕",
@@ -8475,7 +8427,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5637941671&itemId=9188999927&vendorItemId=75619208627"
  },
  {
-  "productId": 353,
+  "productId": 351,
   "brand": "다신샵",
   "title": "곤약이면녹차비빔",
   "hashtags": "곤약이면녹차비빔",
@@ -8499,7 +8451,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6052446433&itemId=11096673435&vendorItemId=79545401933"
  },
  {
-  "productId": 354,
+  "productId": 352,
   "brand": "다신샵",
   "title": "곤약이면해물볶음",
   "hashtags": "곤약이면해물볶음",
@@ -8523,7 +8475,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5587861343&itemId=8951678691&vendorItemId=76238196928"
  },
  {
-  "productId": 355,
+  "productId": 353,
   "brand": "다신샵",
   "title": "곤약이면귀리짜장",
   "hashtags": "곤약이면귀리짜장",
@@ -8547,7 +8499,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=122762813&itemId=364115358&vendorItemId=3884486523"
  },
  {
-  "productId": 356,
+  "productId": 354,
   "brand": "다신샵",
   "title": "곤약이면메밀냉면",
   "hashtags": "곤약이면메밀냉면",
@@ -8571,7 +8523,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=267012850&itemId=836902721&vendorItemId=79854315938"
  },
  {
-  "productId": 357,
+  "productId": 355,
   "brand": "다신샵",
   "title": "곤약이면보리우동",
   "hashtags": "곤약이면보리우동",
@@ -8595,7 +8547,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5587824860&itemId=8951473346&vendorItemId=76237991635"
  },
  {
-  "productId": 358,
+  "productId": 356,
   "brand": "다신샵",
   "title": "통밀당곤약라면",
   "hashtags": "통밀당곤약라면",
@@ -8619,7 +8571,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5408624079&itemId=8126066788&vendorItemId=75414333261"
  },
  {
-  "productId": 359,
+  "productId": 357,
   "brand": "대상",
   "title": "대상미원라면",
   "hashtags": "대상미원라면",
@@ -8643,7 +8595,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5660953307&itemId=9291364040&vendorItemId=76301909619"
  },
  {
-  "productId": 360,
+  "productId": 358,
   "brand": "이레푸드",
   "title": "핫랍스터라면",
   "hashtags": "핫랍스터라면",
@@ -8667,7 +8619,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5166966703&itemId=7120019942&vendorItemId=74411845081"
  },
  {
-  "productId": 361,
+  "productId": 359,
   "brand": "강블리라이프",
   "title": "왕이라면",
   "hashtags": "왕이라면",
@@ -8691,7 +8643,7 @@
   "shopUrl": null
  },
  {
-  "productId": 362,
+  "productId": 360,
   "brand": "라린에프엔비",
   "title": "키토라면",
   "hashtags": "키토라면",
@@ -8715,7 +8667,7 @@
   "shopUrl": null
  },
  {
-  "productId": 363,
+  "productId": 361,
   "brand": "합천유통",
   "title": "해와인양파라면",
   "hashtags": "해와인양파라면",
@@ -8739,7 +8691,7 @@
   "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=3497915&itemId=16551986&vendorItemId=3833155788"
  },
  {
-  "productId": 364,
+  "productId": 362,
   "brand": "인천로컬푸드생산자협동조합",
   "title": "강화섬쌀로만든 시골쌀라면",
   "hashtags": "강화섬쌀로만든시골쌀라면",

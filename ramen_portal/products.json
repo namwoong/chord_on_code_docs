@@ -24,7 +24,7 @@
   "sodium": "1,750mg(88%)",
   "calcium": "127mg(18%)",
   "imagePath": "http://image.nongshim.com/non/pro/1502697209559.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=86478&itemId=28039661&vendorItemId=3000104050"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=86478&itemId=28039661&vendorItemId=3000104050"
  },
  {
   "productId": 1,
@@ -48,7 +48,7 @@
   "sodium": "1450mg(73%)",
   "calcium": "93mg(13%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634090095441.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1824869207&itemId=3105137340&vendorItemId=71092908657"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1824869207&itemId=3105137340&vendorItemId=71092908657"
  },
  {
   "productId": 2,
@@ -72,7 +72,7 @@
   "sodium": "1,520mg(76%)",
   "calcium": "119mg(17%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634090990101.jpg",
-  "shopUrl": "https://link.coupang.com/re/NONPROFITSDP?lptag=CFM95079688&pageKey=86564&itemId=2513608&vendorItemId=3002678476"
+  "shopUrl": "https://link.coupang.com/re/NONPROFITSDP?lptag=$recommenderId&pageKey=86564&itemId=2513608&vendorItemId=3002678476"
  },
  {
   "productId": 3,
@@ -96,7 +96,7 @@
   "sodium": "1430mg(72%)",
   "calcium": "163mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/kimchi.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2454074&itemId=2820120&vendorItemId=3061871377"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2454074&itemId=2820120&vendorItemId=3061871377"
  },
  {
   "productId": 4,
@@ -120,7 +120,7 @@
   "sodium": "1690mg(85%)",
   "calcium": "162mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1590396714048.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1229027856&itemId=2221833918&vendorItemId=70219519954"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1229027856&itemId=2221833918&vendorItemId=70219519954"
  },
  {
   "productId": 5,
@@ -144,7 +144,7 @@
   "sodium": "1760(88%)",
   "calcium": "161mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1598000561204.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2278837&itemId=188578&vendorItemId=3000141660"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2278837&itemId=188578&vendorItemId=3000141660"
  },
  {
   "productId": 6,
@@ -168,7 +168,7 @@
   "sodium": "1420mg(71%)",
   "calcium": "161mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1598000582864.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=94603162&itemId=292651150&vendorItemId=3000100619"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=94603162&itemId=292651150&vendorItemId=3000100619"
  },
  {
   "productId": 7,
@@ -192,7 +192,7 @@
   "sodium": "1280mg(64%)",
   "calcium": "163mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1598000627020.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=80609289&itemId=65543142&vendorItemId=73802360633"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=80609289&itemId=65543142&vendorItemId=73802360633"
  },
  {
   "productId": 8,
@@ -216,7 +216,7 @@
   "sodium": "1550mg(78%)",
   "calcium": "162mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1598000604950.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2299822211&itemId=3961856682&vendorItemId=71946253047"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2299822211&itemId=3961856682&vendorItemId=71946253047"
  },
  {
   "productId": 9,
@@ -240,7 +240,7 @@
   "sodium": "940mg(47%)",
   "calcium": "87mg(12%)",
   "imagePath": "http://image.nongshim.com/non/pro/1541989983831.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2278874&itemId=175506&vendorItemId=3000100078"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2278874&itemId=175506&vendorItemId=3000100078"
  },
  {
   "productId": 10,
@@ -264,7 +264,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://image.nongshim.com/non/pro/necup_434.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=178954368&itemId=512572713&vendorItemId=4317635598"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=178954368&itemId=512572713&vendorItemId=4317635598"
  },
  {
   "productId": 11,
@@ -288,7 +288,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://image.nongshim.com/non/pro/rice434.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1162987053&itemId=2139841447&vendorItemId=70138240353"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1162987053&itemId=2139841447&vendorItemId=70138240353"
  },
  {
   "productId": 12,
@@ -312,7 +312,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://image.nongshim.com/non/pro/beef434.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5430146875&itemId=8226182647&vendorItemId=75514220442"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5430146875&itemId=8226182647&vendorItemId=75514220442"
  },
  {
   "productId": 13,
@@ -336,7 +336,7 @@
   "sodium": "1150mg(59%)",
   "calcium": "0mg",
   "imagePath": "http://image.nongshim.com/non/pro/1468561130462.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1431127&itemId=263002215&vendorItemId=70417738321"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1431127&itemId=263002215&vendorItemId=70417738321"
  },
  {
   "productId": 14,
@@ -360,7 +360,7 @@
   "sodium": "1780mg(89%)",
   "calcium": "0mg",
   "imagePath": "http://image.nongshim.com/non/pro/1468561454334.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2439939&itemId=353738&vendorItemId=3002888128"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2439939&itemId=353738&vendorItemId=3002888128"
  },
  {
   "productId": 15,
@@ -384,7 +384,7 @@
   "sodium": "1590mg(80%)",
   "calcium": "123mg(18%)",
   "imagePath": "http://image.nongshim.com/non/pro/1629180792542.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6079007289&itemId=11259148404&vendorItemId=79182179047"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6079007289&itemId=11259148404&vendorItemId=79182179047"
  },
  {
   "productId": 16,
@@ -408,7 +408,7 @@
   "sodium": "1780mg(89%)",
   "calcium": "141mg(20%)",
   "imagePath": "http://image.nongshim.com/non/pro/1516933724176.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1218245&itemId=5283568&vendorItemId=3006357738"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1218245&itemId=5283568&vendorItemId=3006357738"
  },
  {
   "productId": 17,
@@ -432,7 +432,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "109mg(16%)",
   "imagePath": "http://image.nongshim.com/non/pro/1457915500716.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=330735753&itemId=1056982272&vendorItemId=5531431397"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=330735753&itemId=1056982272&vendorItemId=5531431397"
  },
  {
   "productId": 18,
@@ -456,7 +456,7 @@
   "sodium": "1500mg(75%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1588894817796.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5234190247&itemId=29112036&vendorItemId=3002917765"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5234190247&itemId=29112036&vendorItemId=3002917765"
  },
  {
   "productId": 19,
@@ -480,7 +480,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "121mg(17%)",
   "imagePath": "http://image.nongshim.com/non/pro/kalguksoo_434.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=13432929&itemId=56104274&vendorItemId=3000104174"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=13432929&itemId=56104274&vendorItemId=3000104174"
  },
  {
   "productId": 20,
@@ -504,7 +504,7 @@
   "sodium": "1750mg(88%)",
   "calcium": "166mg(24%)",
   "imagePath": "http://image.nongshim.com/non/pro/seafoodnoodle.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=86421&itemId=175276&vendorItemId=3001013743"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=86421&itemId=175276&vendorItemId=3001013743"
  },
  {
   "productId": 21,
@@ -528,7 +528,7 @@
   "sodium": "1720mg(86%)",
   "calcium": "153mg(22%)",
   "imagePath": "http://image.nongshim.com/non/pro/1531198112797.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5878904204&itemId=10305821151&vendorItemId=77588099528"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5878904204&itemId=10305821151&vendorItemId=77588099528"
  },
  {
   "productId": 22,
@@ -552,7 +552,7 @@
   "sodium": "1570mg(79%)",
   "calcium": "133mg(19%)",
   "imagePath": "http://image.nongshim.com/non/pro/1536553191943.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2438590&itemId=45230001&vendorItemId=3070566559"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2438590&itemId=45230001&vendorItemId=3070566559"
  },
  {
   "productId": 23,
@@ -576,7 +576,7 @@
   "sodium": "1350mg(68%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1614820170428.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6202305778&itemId=12381700093&vendorItemId=74346324571"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6202305778&itemId=12381700093&vendorItemId=74346324571"
  },
  {
   "productId": 24,
@@ -600,7 +600,7 @@
   "sodium": "1850mg(93%)",
   "calcium": "158mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1543193386686.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6222556&itemId=27813913&vendorItemId=3041380768"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6222556&itemId=27813913&vendorItemId=3041380768"
  },
  {
   "productId": 25,
@@ -624,7 +624,7 @@
   "sodium": "1690mg(85%)",
   "calcium": "134mg(19%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634089881344.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=7209924&itemId=39618638&vendorItemId=3059627907"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=7209924&itemId=39618638&vendorItemId=3059627907"
  },
  {
   "productId": 26,
@@ -648,7 +648,7 @@
   "sodium": "1050mg(53%)",
   "calcium": "83mg(12%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634089761330.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=3833997&itemId=18848322&vendorItemId=3002679499"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=3833997&itemId=18848322&vendorItemId=3002679499"
  },
  {
   "productId": 27,
@@ -672,7 +672,7 @@
   "sodium": "1670mg(84%)",
   "calcium": "147mg(21%)",
   "imagePath": "http://image.nongshim.com/non/pro/1512695977044.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=86307&itemId=39569149&vendorItemId=3059539877"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=86307&itemId=39569149&vendorItemId=3059539877"
  },
  {
   "productId": 28,
@@ -696,7 +696,7 @@
   "sodium": "1720mg(86%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1637194768116.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6224031812&itemId=12471173858&vendorItemId=79740013159"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6224031812&itemId=12471173858&vendorItemId=79740013159"
  },
  {
   "productId": 29,
@@ -720,7 +720,7 @@
   "sodium": "1710mg(86%)",
   "calcium": "168mg(24%)",
   "imagePath": "http://image.nongshim.com/non/pro/1598514635828.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4015263&itemId=1057983643&vendorItemId=5532763178"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4015263&itemId=1057983643&vendorItemId=5532763178"
  },
  {
   "productId": 30,
@@ -744,7 +744,7 @@
   "sodium": "1210mg(61%)",
   "calcium": "92mg(13%)",
   "imagePath": "http://image.nongshim.com/non/pro/shrimp_434.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2465270&itemId=2513613&vendorItemId=3002679503"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2465270&itemId=2513613&vendorItemId=3002679503"
  },
  {
   "productId": 31,
@@ -768,7 +768,7 @@
   "sodium": "1760mg(88%)",
   "calcium": "0mg(0%)",
   "imagePath": "http://image.nongshim.com/non/pro/1622593356916.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5842471353&itemId=10143717914&vendorItemId=77426442703"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5842471353&itemId=10143717914&vendorItemId=77426442703"
  },
  {
   "productId": 32,
@@ -792,7 +792,7 @@
   "sodium": "1760mg(88%)",
   "calcium": "0mg(0%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634089276002.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5842471374&itemId=10143718013&vendorItemId=77426442823"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5842471374&itemId=10143718013&vendorItemId=77426442823"
  },
  {
   "productId": 33,
@@ -816,7 +816,7 @@
   "sodium": "1250mg(63%)",
   "calcium": "0mg(0%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634089673756.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=680494&itemId=2448917&vendorItemId=3002598941"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=680494&itemId=2448917&vendorItemId=3002598941"
  },
  {
   "productId": 34,
@@ -840,7 +840,7 @@
   "sodium": "1220mg(61%)",
   "calcium": "0mg(0%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634089656800.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=680495&itemId=2448919&vendorItemId=3002598942"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=680495&itemId=2448919&vendorItemId=3002598942"
  },
  {
   "productId": 35,
@@ -864,7 +864,7 @@
   "sodium": "1,790mg(90%)",
   "calcium": "142mg(20%)",
   "imagePath": "http://image.nongshim.com/non/pro/03_product.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=7958974&itemId=1035122536&vendorItemId=3000260906"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=7958974&itemId=1035122536&vendorItemId=3000260906"
  },
  {
   "productId": 36,
@@ -888,7 +888,7 @@
   "sodium": "1290mg(65%)",
   "calcium": "97mg(14%)",
   "imagePath": "http://image.nongshim.com/non/pro/300_s.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4498353&itemId=51000222&vendorItemId=3000104072"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4498353&itemId=51000222&vendorItemId=3000104072"
  },
  {
   "productId": 37,
@@ -912,7 +912,7 @@
   "sodium": "1550mg(78%)",
   "calcium": "150mg(21%)",
   "imagePath": "http://image.nongshim.com/non/pro/1540284510103.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1195586864&itemId=2178713599&vendorItemId=70176779066"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1195586864&itemId=2178713599&vendorItemId=70176779066"
  },
  {
   "productId": 38,
@@ -936,7 +936,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1548639485254.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=185949287&itemId=2178713671&vendorItemId=70176779167"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=185949287&itemId=2178713671&vendorItemId=70176779167"
  },
  {
   "productId": 39,
@@ -960,7 +960,7 @@
   "sodium": "1630mg(82%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1589527790748.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1568884328&itemId=2682823383&vendorItemId=70673334909"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1568884328&itemId=2682823383&vendorItemId=70673334909"
  },
  {
   "productId": 40,
@@ -984,7 +984,7 @@
   "sodium": "1390mg(70%)",
   "calcium": "141mg(20%)",
   "imagePath": "http://image.nongshim.com/non/pro/thumbnail1.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5837917026&itemId=10122423201&vendorItemId=77405186734"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5837917026&itemId=10122423201&vendorItemId=77405186734"
  },
  {
   "productId": 41,
@@ -1008,7 +1008,7 @@
   "sodium": "1400mg(70%)",
   "calcium": "118mg(17%)",
   "imagePath": "http://image.nongshim.com/non/pro/thumbnail2.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5837917002&itemId=10122423085&vendorItemId=77405186638"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5837917002&itemId=10122423085&vendorItemId=77405186638"
  },
  {
   "productId": 42,
@@ -1032,7 +1032,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://image.nongshim.com/non/pro/1606114727290.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4343243058&itemId=5086414520&vendorItemId=72396038351"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4343243058&itemId=5086414520&vendorItemId=72396038351"
  },
  {
   "productId": 43,
@@ -1056,7 +1056,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://image.nongshim.com/non/pro/1598604621474.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2305621450&itemId=3973982580&vendorItemId=71958322415"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2305621450&itemId=3973982580&vendorItemId=71958322415"
  },
  {
   "productId": 44,
@@ -1080,7 +1080,7 @@
   "sodium": "1780mg(89%)",
   "calcium": "157mg(22%)",
   "imagePath": "http://image.nongshim.com/non/pro/1511741838357.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=86448&itemId=175307&vendorItemId=71793141038"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=86448&itemId=175307&vendorItemId=71793141038"
  },
  {
   "productId": 45,
@@ -1104,7 +1104,7 @@
   "sodium": "1530mg(77%)",
   "calcium": "113mg(16%)",
   "imagePath": "http://image.nongshim.com/non/pro/1598831232333.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5018139360&itemId=6726107330&vendorItemId=79020395933"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5018139360&itemId=6726107330&vendorItemId=79020395933"
  },
  {
   "productId": 46,
@@ -1128,7 +1128,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "163mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1639438625126.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=96571&itemId=188750&vendorItemId=3000138062"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=96571&itemId=188750&vendorItemId=3000138062"
  },
  {
   "productId": 47,
@@ -1152,7 +1152,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "143mg(20%)",
   "imagePath": "http://image.nongshim.com/non/pro/1639438663385.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2149200399&itemId=3649906506&vendorItemId=4498130436"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2149200399&itemId=3649906506&vendorItemId=4498130436"
  },
  {
   "productId": 48,
@@ -1176,7 +1176,7 @@
   "sodium": "1050mg(53%)",
   "calcium": "85mg(12%)",
   "imagePath": "http://image.nongshim.com/non/pro/1457914067410.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1095231843&itemId=2057830801&vendorItemId=70057102562"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1095231843&itemId=2057830801&vendorItemId=70057102562"
  },
  {
   "productId": 49,
@@ -1200,7 +1200,7 @@
   "sodium": "1740mg(87%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1421716570845.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=86169&itemId=174981&vendorItemId=3000104668"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=86169&itemId=174981&vendorItemId=3000104668"
  },
  {
   "productId": 50,
@@ -1224,7 +1224,7 @@
   "sodium": "1610mg(81%)",
   "calcium": "120mg(17%)",
   "imagePath": "http://image.nongshim.com/non/pro/1549518562139.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2239693003&itemId=3825487519&vendorItemId=3077695186"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2239693003&itemId=3825487519&vendorItemId=3077695186"
  },
  {
   "productId": 51,
@@ -1248,7 +1248,7 @@
   "sodium": "1750mg(88%)",
   "calcium": "160mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1604479537605.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=86147&itemId=55893257&vendorItemId=3000105014"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=86147&itemId=55893257&vendorItemId=3000105014"
  },
  {
   "productId": 52,
@@ -1272,7 +1272,7 @@
   "sodium": "1240mg(62%)",
   "calcium": "94mg(13%)",
   "imagePath": "http://image.nongshim.com/non/pro/product_s.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=153451959&itemId=442688096&vendorItemId=3062090791"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=153451959&itemId=442688096&vendorItemId=3062090791"
  },
  {
   "productId": 53,
@@ -1296,7 +1296,7 @@
   "sodium": "1590mg(80%)",
   "calcium": "145mg(21%)",
   "imagePath": "http://image.nongshim.com/non/pro/product_big.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2203441257&itemId=3747281853&vendorItemId=74164449886"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2203441257&itemId=3747281853&vendorItemId=74164449886"
  },
  {
   "productId": 54,
@@ -1320,7 +1320,7 @@
   "sodium": "1700mg(85%)",
   "calcium": "167mg(24%)",
   "imagePath": "http://image.nongshim.com/non/pro/1597305362478.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=96460&itemId=39567229&vendorItemId=3059534314"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=96460&itemId=39567229&vendorItemId=3059534314"
  },
  {
   "productId": 55,
@@ -1344,7 +1344,7 @@
   "sodium": "1590mg(80%)",
   "calcium": "122mg(17%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634090914592.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=196473&itemId=12769461&vendorItemId=3000267610"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=196473&itemId=12769461&vendorItemId=3000267610"
  },
  {
   "productId": 56,
@@ -1368,7 +1368,7 @@
   "sodium": "1610mg(81%)",
   "calcium": "145mg(21%)",
   "imagePath": "http://image.nongshim.com/non/pro/Spicybeefsoup.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2279675&itemId=1012148&vendorItemId=3059595124"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2279675&itemId=1012148&vendorItemId=3059595124"
  },
  {
   "productId": 57,
@@ -1392,7 +1392,7 @@
   "sodium": "1780mg(89%)",
   "calcium": "144mg(21%)",
   "imagePath": "http://image.nongshim.com/non/pro/1397619384107.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=96198161&itemId=570425105&vendorItemId=4498141843"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=96198161&itemId=570425105&vendorItemId=4498141843"
  },
  {
   "productId": 58,
@@ -1416,7 +1416,7 @@
   "sodium": "1160mg(58%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1577080044002.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1163437517&itemId=2140379099&vendorItemId=70138775750"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1163437517&itemId=2140379099&vendorItemId=70138775750"
  },
  {
   "productId": 59,
@@ -1440,7 +1440,7 @@
   "sodium": "1180mg(59%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1492491267126.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=401319&itemId=42807845&vendorItemId=3066641158"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=401319&itemId=42807845&vendorItemId=3066641158"
  },
  {
   "productId": 60,
@@ -1464,7 +1464,7 @@
   "sodium": "990mg(50%)",
   "calcium": "111mg(16%)",
   "imagePath": "http://image.nongshim.com/non/pro/1492491709654.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2000645927&itemId=3404442885&vendorItemId=71391056093"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2000645927&itemId=3404442885&vendorItemId=71391056093"
  },
  {
   "productId": 61,
@@ -1488,7 +1488,7 @@
   "sodium": "1250mg(63%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1492491233611.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5319092048&itemId=7731589605&vendorItemId=78070904281"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5319092048&itemId=7731589605&vendorItemId=78070904281"
  },
  {
   "productId": 62,
@@ -1512,7 +1512,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://image.nongshim.com/non/pro/1492999420152.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=21718020&itemId=84833591&vendorItemId=3144265849"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=21718020&itemId=84833591&vendorItemId=3144265849"
  },
  {
   "productId": 63,
@@ -1536,7 +1536,7 @@
   "sodium": "1180mg(59%)",
   "calcium": "164mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1447924027938.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=9339250&itemId=74930844&vendorItemId=3000100413"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=9339250&itemId=74930844&vendorItemId=3000100413"
  },
  {
   "productId": 64,
@@ -1560,7 +1560,7 @@
   "sodium": "850mg(43%)",
   "calcium": "89mg(13%)",
   "imagePath": "http://image.nongshim.com/non/pro/1634091139981.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=86430&itemId=361723&vendorItemId=3000267640"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=86430&itemId=361723&vendorItemId=3000267640"
  },
  {
   "productId": 65,
@@ -1584,7 +1584,7 @@
   "sodium": "1270mg(64%)",
   "calcium": "136mg(19%)",
   "imagePath": "http://image.nongshim.com/non/pro/1416817657349.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1790656&itemId=6891730&vendorItemId=5532763363"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1790656&itemId=6891730&vendorItemId=5532763363"
  },
  {
   "productId": 66,
@@ -1608,7 +1608,7 @@
   "sodium": "1080mg(54%)",
   "calcium": "148mg(21%)",
   "imagePath": "http://image.nongshim.com/non/pro/1524182504601.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5233343190&itemId=7372367061&vendorItemId=74663540182"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5233343190&itemId=7372367061&vendorItemId=74663540182"
  },
  {
   "productId": 67,
@@ -1632,7 +1632,7 @@
   "sodium": "1010mg(51%)",
   "calcium": "156mg(22%)",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7dc7/711ea002679c51d2bd4da5325243c3992d15cb35d2737ef4ad19f934f6f1.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=13663887&itemId=57001020&vendorItemId=3089331886"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=13663887&itemId=57001020&vendorItemId=3089331886"
  },
  {
   "productId": 68,
@@ -1656,7 +1656,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://image.nongshim.com/non/pro/1634113699760.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6111680109&itemId=11522555745&vendorItemId=78797663529"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6111680109&itemId=11522555745&vendorItemId=78797663529"
  },
  {
   "productId": 69,
@@ -1680,7 +1680,7 @@
   "sodium": "1230mg(62%)",
   "calcium": "149mg(21%)",
   "imagePath": "http://image.nongshim.com/non/pro/1587010842291.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6074979402&itemId=2537585405&vendorItemId=70530342208"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6074979402&itemId=2537585405&vendorItemId=70530342208"
  },
  {
   "productId": 70,
@@ -1704,7 +1704,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "http://image.nongshim.com/non/pro/1611728328245.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4869488486&itemId=6325161923&vendorItemId=73620589261"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4869488486&itemId=6325161923&vendorItemId=73620589261"
  },
  {
   "productId": 71,
@@ -1728,7 +1728,7 @@
   "sodium": "1060mg(53%)",
   "calcium": "125mg(18%)",
   "imagePath": "http://image.nongshim.com/non/pro/1616369664243.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=69730717&itemId=291060685&vendorItemId=75093992215"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=69730717&itemId=291060685&vendorItemId=75093992215"
  },
  {
   "productId": 72,
@@ -1752,7 +1752,7 @@
   "sodium": "930mg(47%)",
   "calcium": "123mg(18%)",
   "imagePath": "http://image.nongshim.com/non/pro/1492758138992.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=24929051&itemId=97035643&vendorItemId=3175415355"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=24929051&itemId=97035643&vendorItemId=3175415355"
  },
  {
   "productId": 73,
@@ -1776,7 +1776,7 @@
   "sodium": "1550mg(78%)",
   "calcium": "149mg(21%)",
   "imagePath": "http://image.nongshim.com/non/pro/curryneoguri_thumbnail1.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6125682743&itemId=11780724041&vendorItemId=79416712919"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6125682743&itemId=11780724041&vendorItemId=79416712919"
  },
  {
   "productId": 74,
@@ -1800,7 +1800,7 @@
   "sodium": "1760mg(88%)",
   "calcium": "134mg(19%)",
   "imagePath": "http://image.nongshim.com/non/pro/1542929810923.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=202256291&itemId=591365386&vendorItemId=4548622234"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=202256291&itemId=591365386&vendorItemId=4548622234"
  },
  {
   "productId": 75,
@@ -1824,7 +1824,7 @@
   "sodium": "1590mg(80%)",
   "calcium": "163mg(23%)",
   "imagePath": "http://image.nongshim.com/non/pro/1598514728296.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=9630787&itemId=1057983633&vendorItemId=5532763148"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=9630787&itemId=1057983633&vendorItemId=5532763148"
  },
  {
   "productId": 76,
@@ -1848,7 +1848,7 @@
   "sodium": "1200mg(60%)",
   "calcium": "81mg(12%)",
   "imagePath": "http://image.nongshim.com/non/pro/1407982591951.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=825878&itemId=12639871&vendorItemId=3038291674"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=825878&itemId=12639871&vendorItemId=3038291674"
  },
  {
   "productId": 77,
@@ -1872,7 +1872,7 @@
   "sodium": "1570mg(79%)",
   "calcium": "110mg(16%)",
   "imagePath": "http://image.nongshim.com/non/pro/B_Spicybeefsoup.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6241041544&itemId=12597869431&vendorItemId=79865747432"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6241041544&itemId=12597869431&vendorItemId=79865747432"
  },
  {
   "productId": 78,
@@ -1896,7 +1896,7 @@
   "sodium": "1650mg(83%)",
   "calcium": "0mg(0%)",
   "imagePath": "http://image.nongshim.com/non/pro/adm_20130614165922.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=110161622&itemId=8166918994&vendorItemId=75455093721"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=110161622&itemId=8166918994&vendorItemId=75455093721"
  },
  {
   "productId": 79,
@@ -1920,7 +1920,7 @@
   "sodium": "1540mg(77%)",
   "calcium": "117mg(17%)",
   "imagePath": "http://image.nongshim.com/non/pro/adm_20130611153851.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1693832&itemId=7383086&vendorItemId=3000104527"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1693832&itemId=7383086&vendorItemId=3000104527"
  },
  {
   "productId": 80,
@@ -1944,7 +1944,7 @@
   "sodium": "1850mg(93%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-21_885053806[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=51576542&itemId=3972097144&vendorItemId=71956450368"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=51576542&itemId=3972097144&vendorItemId=71956450368"
  },
  {
   "productId": 81,
@@ -1968,7 +1968,7 @@
   "sodium": "1340mg(67%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160265843[7].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=310577186&itemId=979401170&vendorItemId=5396023473"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=310577186&itemId=979401170&vendorItemId=5396023473"
  },
  {
   "productId": 82,
@@ -1992,7 +1992,7 @@
   "sodium": "1650mg(83%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1722651057933993-862b90eb-0412-4277-ab25-5d56b035c527.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1067207282&itemId=2120292920&vendorItemId=75595461612"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1067207282&itemId=2120292920&vendorItemId=75595461612"
  },
  {
   "productId": 83,
@@ -2016,7 +2016,7 @@
   "sodium": "1630mg(82%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1719141724239276-306ea39e-b980-4e8b-b08a-0ec3c4eadc14.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5391370&itemId=12254087182&vendorItemId=3001027783"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5391370&itemId=12254087182&vendorItemId=3001027783"
  },
  {
   "productId": 84,
@@ -2040,7 +2040,7 @@
   "sodium": "1750mg(88%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-03-26_640444351[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6213161626&itemId=12395108735&vendorItemId=79664710475"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6213161626&itemId=12395108735&vendorItemId=79664710475"
  },
  {
   "productId": 85,
@@ -2064,7 +2064,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-03-31_421940901[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5716261154&itemId=9546456507&vendorItemId=76831142058"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5716261154&itemId=9546456507&vendorItemId=76831142058"
  },
  {
   "productId": 86,
@@ -2088,7 +2088,7 @@
   "sodium": "1570mg(79%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2017/09/19/10/7/997dfe54-96ae-4fc1-bdd2-c07e1f4b58d4.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=37612308&itemId=3892095116&vendorItemId=75093903392"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=37612308&itemId=3892095116&vendorItemId=75093903392"
  },
  {
   "productId": 87,
@@ -2112,7 +2112,7 @@
   "sodium": "1370mg(69%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-07_663299038[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=42782991&itemId=154987133&vendorItemId=3362181592"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=42782991&itemId=154987133&vendorItemId=3362181592"
  },
  {
   "productId": 88,
@@ -2136,7 +2136,7 @@
   "sodium": "1080mg(54%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189733[15].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=213057110&itemId=211376762&vendorItemId=74946550193"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=213057110&itemId=211376762&vendorItemId=74946550193"
  },
  {
   "productId": 89,
@@ -2160,7 +2160,7 @@
   "sodium": "1240mg(62%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160265843[9].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4038659&itemId=39607056&vendorItemId=3059597400"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4038659&itemId=39607056&vendorItemId=3059597400"
  },
  {
   "productId": 90,
@@ -2184,7 +2184,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160265843[11].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6571979&itemId=29170567&vendorItemId=3043376468"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6571979&itemId=29170567&vendorItemId=3043376468"
  },
  {
   "productId": 91,
@@ -2208,7 +2208,7 @@
   "sodium": "1560mg(78%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/320442279227078-88943fde-0f67-4a9a-b78b-95e3f14500ca.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1138486867&itemId=2109018282&vendorItemId=70107803033"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1138486867&itemId=2109018282&vendorItemId=70107803033"
  },
  {
   "productId": 92,
@@ -2232,7 +2232,7 @@
   "sodium": "1550mg(78%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-04-10_1002910728[9].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1384245047&itemId=2418953435&vendorItemId=70413155085"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1384245047&itemId=2418953435&vendorItemId=70413155085"
  },
  {
   "productId": 93,
@@ -2256,7 +2256,7 @@
   "sodium": "1650mg(83%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160265843[5].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6221115489&itemId=12451417788&vendorItemId=3001027782"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6221115489&itemId=12451417788&vendorItemId=3001027782"
  },
  {
   "productId": 94,
@@ -2280,7 +2280,7 @@
   "sodium": "1800mg(90%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-08-24_345601011[34].png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=132789253&itemId=624609946&vendorItemId=75595461715"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=132789253&itemId=624609946&vendorItemId=75595461715"
  },
  {
   "productId": 95,
@@ -2304,7 +2304,7 @@
   "sodium": "1390mg(70%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/36e1/c902974f4c305e6e1587992a2433c10e474dd9af6023571f74a933faa0c7.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=167415217&itemId=479386899&vendorItemId=78346896463"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=167415217&itemId=479386899&vendorItemId=78346896463"
  },
  {
   "productId": 96,
@@ -2328,7 +2328,7 @@
   "sodium": "1020mg(51%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3fcc/bcc0d25295f92f39948974a99175b12e9cfecdd6ddb76e257508f93de4c5.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=310577186&itemId=979401170&vendorItemId=5396023473"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=310577186&itemId=979401170&vendorItemId=5396023473"
  },
  {
   "productId": 97,
@@ -2352,7 +2352,7 @@
   "sodium": "1690mg(85%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a9be/d41a34658ef2bebd1d40f74e4eaa970be09bb8035c083a9a9fe74c73b925.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6168536846&itemId=12024602474&vendorItemId=79989446671"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6168536846&itemId=12024602474&vendorItemId=79989446671"
  },
  {
   "productId": 98,
@@ -2376,7 +2376,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/861e/73426729d7e7096f50260c2e3ac5931c111294fec0a14b34dab2fbfa9d2a.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6072486857&itemId=11217492058&vendorItemId=78237415553"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6072486857&itemId=11217492058&vendorItemId=78237415553"
  },
  {
   "productId": 99,
@@ -2400,7 +2400,7 @@
   "sodium": "1770mg(89%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3999/71cef68bfa1650a410d8fe83613cde29e2a3bb615552ddf6f77134bc2f3e.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6096074620&itemId=11392909875&vendorItemId=77349658566"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6096074620&itemId=11392909875&vendorItemId=77349658566"
  },
  {
   "productId": 100,
@@ -2424,7 +2424,7 @@
   "sodium": "1710mg(86%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160263743[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6094064&itemId=5782703&vendorItemId=3054768785"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6094064&itemId=5782703&vendorItemId=3054768785"
  },
  {
   "productId": 101,
@@ -2448,7 +2448,7 @@
   "sodium": "1680mg(84%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160263743[3].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2316902943&itemId=1074674&vendorItemId=3001027800"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2316902943&itemId=1074674&vendorItemId=3001027800"
  },
  {
   "productId": 102,
@@ -2472,7 +2472,7 @@
   "sodium": "1200mg(60%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/772073687605576-02f301f5-287e-475d-94d4-ed663139af38.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5264152858&itemId=7485649089&vendorItemId=3001027794"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5264152858&itemId=7485649089&vendorItemId=3001027794"
  },
  {
   "productId": 103,
@@ -2496,7 +2496,7 @@
   "sodium": "1230mg(62%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-14_1008043855[3].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5543443&itemId=2833086493&vendorItemId=71349749374"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5543443&itemId=2833086493&vendorItemId=71349749374"
  },
  {
   "productId": 104,
@@ -2520,7 +2520,7 @@
   "sodium": "1830mg(92%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160263743[11].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=8480944&itemId=12045861575&vendorItemId=75595461690"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=8480944&itemId=12045861575&vendorItemId=75595461690"
  },
  {
   "productId": 105,
@@ -2544,7 +2544,7 @@
   "sodium": "1520mg(76%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2aa5/7baf762113232ed2e99ad8bfea51bed0e7ff915d1684193e13593270e6c0.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1319548870&itemId=43476604&vendorItemId=3068021341"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1319548870&itemId=43476604&vendorItemId=3068021341"
  },
  {
   "productId": 106,
@@ -2568,7 +2568,7 @@
   "sodium": "1200mg(60%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/773847198000480-a2b130ac-779b-4abf-a6ab-1ba77a1d9042.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=250016&itemId=892553572&vendorItemId=3001027793"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=250016&itemId=892553572&vendorItemId=3001027793"
  },
  {
   "productId": 107,
@@ -2592,7 +2592,7 @@
   "sodium": "1660mg(83%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-09-16_113032405[7].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1912026433&itemId=2568256660&vendorItemId=75595461499"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1912026433&itemId=2568256660&vendorItemId=75595461499"
  },
  {
   "productId": 108,
@@ -2616,7 +2616,7 @@
   "sodium": "1500mg(75%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-09-16_113032405[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5164754387&itemId=7113817055&vendorItemId=3093531483"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5164754387&itemId=7113817055&vendorItemId=3093531483"
  },
  {
   "productId": 109,
@@ -2640,7 +2640,7 @@
   "sodium": "1770mg(89%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ff38/8041711bf8697791b5b615ad43bfc3aafe0aae7515d25065294bfbf8f2ed.PNG",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=269280488&itemId=845768480&vendorItemId=5150837805"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=269280488&itemId=845768480&vendorItemId=5150837805"
  },
  {
   "productId": 110,
@@ -2664,7 +2664,7 @@
   "sodium": "1780mg(89%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2019-11-06_185569419[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=310577180&itemId=979401161&vendorItemId=5396023460"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=310577180&itemId=979401161&vendorItemId=5396023460"
  },
  {
   "productId": 111,
@@ -2688,7 +2688,7 @@
   "sodium": "1470mg(74%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ba5b/5236319f84c06ec06094cdcac4a39ad2bac17f3c79d91a1159faa4b570ab.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1310861154&itemId=2327527433&vendorItemId=70878702960"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1310861154&itemId=2327527433&vendorItemId=70878702960"
  },
  {
   "productId": 112,
@@ -2712,7 +2712,7 @@
   "sodium": "1470mg(74%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/9864019703886036-02b66fac-ebd5-4a4e-a6bd-21c7b8620df7.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5307234587&itemId=7677950020&vendorItemId=74968257162"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5307234587&itemId=7677950020&vendorItemId=74968257162"
  },
  {
   "productId": 113,
@@ -2736,7 +2736,7 @@
   "sodium": "960mg(48%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5715367988720750-88d6e335-af98-4c3f-9fef-886bdb525c90.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2131215&itemId=9659299&vendorItemId=3014009641"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2131215&itemId=9659299&vendorItemId=3014009641"
  },
  {
   "productId": 114,
@@ -2760,7 +2760,7 @@
   "sodium": "1540mg(77%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2954446695068210-99744266-2d74-4c41-8367-355869f39a86.jpg",
-  "shopUrl": "https://link.coupang.com/re/NONPROFITSDP?lptag=CFM95079688&pageKey=14453287&itemId=59777678&vendorItemId=3093531473"
+  "shopUrl": "https://link.coupang.com/re/NONPROFITSDP?lptag=$recommenderId&pageKey=14453287&itemId=59777678&vendorItemId=3093531473"
  },
  {
   "productId": 115,
@@ -2784,7 +2784,7 @@
   "sodium": "1650mg(83%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-30_569024061[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5649659198&itemId=12257079482&vendorItemId=76526596432"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5649659198&itemId=12257079482&vendorItemId=76526596432"
  },
  {
   "productId": 116,
@@ -2808,7 +2808,7 @@
   "sodium": "1860mg(93%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-08-10_1001111506.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14111627&itemId=74631711&vendorItemId=75595461484"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14111627&itemId=74631711&vendorItemId=75595461484"
  },
  {
   "productId": 117,
@@ -2832,7 +2832,7 @@
   "sodium": "1540mg(77%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-08-03_792027579[5].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2258069&itemId=1074659&vendorItemId=3001027785"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2258069&itemId=1074659&vendorItemId=3001027785"
  },
  {
   "productId": 118,
@@ -2856,7 +2856,7 @@
   "sodium": "1880mg(94%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-08-10_1001111506[1].png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=11321799&itemId=9056762124&vendorItemId=75595461459"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=11321799&itemId=9056762124&vendorItemId=75595461459"
  },
  {
   "productId": 119,
@@ -2880,7 +2880,7 @@
   "sodium": "1550mg(78%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-08-03_792027579[7].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6122362498&itemId=11613971763&vendorItemId=3083116824"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6122362498&itemId=11613971763&vendorItemId=3083116824"
  },
  {
   "productId": 120,
@@ -2904,7 +2904,7 @@
   "sodium": "1170mg(59%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-08-03_792027579[13].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2258070&itemId=1074665&vendorItemId=3001027791"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2258070&itemId=1074665&vendorItemId=3001027791"
  },
  {
   "productId": 121,
@@ -2928,7 +2928,7 @@
   "sodium": "1140mg(57%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-08-03_792027579[11].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=3833856&itemId=18847967&vendorItemId=3001027792"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=3833856&itemId=18847967&vendorItemId=3001027792"
  },
  {
   "productId": 122,
@@ -2952,7 +2952,7 @@
   "sodium": "1400mg(70%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-03-04_1052205015[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1423285510&itemId=2462300857&vendorItemId=70455779264"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1423285510&itemId=2462300857&vendorItemId=70455779264"
  },
  {
   "productId": 123,
@@ -2976,7 +2976,7 @@
   "sodium": "1190mg(60%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-04-10_1002910728[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1423285377&itemId=2428300502&vendorItemId=75595461703"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1423285377&itemId=2428300502&vendorItemId=75595461703"
  },
  {
   "productId": 124,
@@ -3000,7 +3000,7 @@
   "sodium": "1310mg(66%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/rs_quotation_api/uinehco0/46d47798ab624fe49af3b554cd1e59e5.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6046214544&itemId=11068474341&vendorItemId=78347972445"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6046214544&itemId=11068474341&vendorItemId=78347972445"
  },
  {
   "productId": 125,
@@ -3024,7 +3024,7 @@
   "sodium": "1100mg(55%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189733[13].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5919499097&itemId=10487909147&vendorItemId=70505287845"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5919499097&itemId=10487909147&vendorItemId=70505287845"
  },
  {
   "productId": 126,
@@ -3048,7 +3048,7 @@
   "sodium": "990mg(50%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189733[9].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5919358747&itemId=10487258972&vendorItemId=3063136901"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5919358747&itemId=10487258972&vendorItemId=3063136901"
  },
  {
   "productId": 127,
@@ -3072,7 +3072,7 @@
   "sodium": "600mg(30%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189733[11].jpg",
-  "shopUrl": "https://link.coupang.com/re/NONPROFITSDP?lptag=CFM95079688&pageKey=5919358747&itemId=10487258972&vendorItemId=3063136901"
+  "shopUrl": "https://link.coupang.com/re/NONPROFITSDP?lptag=$recommenderId&pageKey=5919358747&itemId=10487258972&vendorItemId=3063136901"
  },
  {
   "productId": 128,
@@ -3096,7 +3096,7 @@
   "sodium": "1250mg(63%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189733[5].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=80289360&itemId=329136133&vendorItemId=4498138437"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=80289360&itemId=329136133&vendorItemId=4498138437"
  },
  {
   "productId": 129,
@@ -3120,7 +3120,7 @@
   "sodium": "1850mg(93%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2016/11/23/3054772499/4e5a9aca-02be-49f2-9cbf-49a31e3df30e.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=964799&itemId=122777483&vendorItemId=3005113483"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=964799&itemId=122777483&vendorItemId=3005113483"
  },
  {
   "productId": 130,
@@ -3144,7 +3144,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/90aa/31947e7568cdec0c76479af654374799a6b4839c2c3ff9b1839a111de96f.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2131221&itemId=9535254&vendorItemId=3059593520"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2131221&itemId=9535254&vendorItemId=3059593520"
  },
  {
   "productId": 131,
@@ -3168,7 +3168,7 @@
   "sodium": "1140mg(57%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160263743[9].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=7656424&itemId=33489996&vendorItemId=3014009661"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=7656424&itemId=33489996&vendorItemId=3014009661"
  },
  {
   "productId": 132,
@@ -3192,7 +3192,7 @@
   "sodium": "1050mg(53%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2019-07-02_249643505[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=269280489&itemId=797248641&vendorItemId=75595461517"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=269280489&itemId=797248641&vendorItemId=75595461517"
  },
  {
   "productId": 133,
@@ -3216,7 +3216,7 @@
   "sodium": "1250mg(63%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2ebc/3a15cdc9bd055cb2b6a94b0a290c4eed05b13b0e695412f537f71eb3e6be.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6189975555&itemId=12211157717&vendorItemId=79482005737"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6189975555&itemId=12211157717&vendorItemId=79482005737"
  },
  {
   "productId": 134,
@@ -3240,7 +3240,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160265073[3].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5587158187&itemId=2388041124&vendorItemId=75595461595"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5587158187&itemId=2388041124&vendorItemId=75595461595"
  },
  {
   "productId": 135,
@@ -3264,7 +3264,7 @@
   "sodium": "1630mg(82%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-20_671242889[5].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5267279419&itemId=7498476545&vendorItemId=3059505119"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5267279419&itemId=7498476545&vendorItemId=3059505119"
  },
  {
   "productId": 136,
@@ -3288,7 +3288,7 @@
   "sodium": "1310mg(43%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189348[3].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=35300514&itemId=1074673&vendorItemId=3001027799"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=35300514&itemId=1074673&vendorItemId=3001027799"
  },
  {
   "productId": 137,
@@ -3312,7 +3312,7 @@
   "sodium": "1540mg(77%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160263743[13].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1514422856&itemId=2599474453&vendorItemId=5595060356"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1514422856&itemId=2599474453&vendorItemId=5595060356"
  },
  {
   "productId": 138,
@@ -3336,7 +3336,7 @@
   "sodium": "1240mg(62%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2020-04-10_1002910728[5].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1248616509&itemId=2246928490&vendorItemId=70244341585"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1248616509&itemId=2246928490&vendorItemId=70244341585"
  },
  {
   "productId": 139,
@@ -3360,7 +3360,7 @@
   "sodium": "1560mg(78%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-29_160265843[3].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=100506817&itemId=306890228&vendorItemId=3756863182"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=100506817&itemId=306890228&vendorItemId=3756863182"
  },
  {
   "productId": 140,
@@ -3384,7 +3384,7 @@
   "sodium": "1480mg(74%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2018-11-07_155695727[3].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1258431977&itemId=2259331023&vendorItemId=77074882252"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1258431977&itemId=2259331023&vendorItemId=77074882252"
  },
  {
   "productId": 141,
@@ -3408,7 +3408,7 @@
   "sodium": "920mg(46%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-06_585120527[3].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1223228887&itemId=2214711700&vendorItemId=71266005675"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1223228887&itemId=2214711700&vendorItemId=71266005675"
  },
  {
   "productId": 142,
@@ -3432,7 +3432,7 @@
   "sodium": "560mg(28%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-23_238962269[16].png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1160787893&itemId=49479423&vendorItemId=80109090000"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1160787893&itemId=49479423&vendorItemId=80109090000"
  },
  {
   "productId": 143,
@@ -3456,7 +3456,7 @@
   "sodium": "540mg(27%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-03_218710918[4].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5504087863&itemId=8559404059&vendorItemId=75846775308"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5504087863&itemId=8559404059&vendorItemId=75846775308"
  },
  {
   "productId": 144,
@@ -3480,7 +3480,7 @@
   "sodium": "890mg(45%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-03_218710918[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5932459264&itemId=10545887642&vendorItemId=3050674074"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5932459264&itemId=10545887642&vendorItemId=3050674074"
  },
  {
   "productId": 145,
@@ -3504,7 +3504,7 @@
   "sodium": "1620mg(81%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-23_238962269[8].png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=42921179&itemId=155460726&vendorItemId=74478807178"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=42921179&itemId=155460726&vendorItemId=74478807178"
  },
  {
   "productId": 146,
@@ -3528,7 +3528,7 @@
   "sodium": "790mg(40%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-06_585120527[7].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5279903036&itemId=7551621701&vendorItemId=78322337809"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5279903036&itemId=7551621701&vendorItemId=78322337809"
  },
  {
   "productId": 147,
@@ -3552,7 +3552,7 @@
   "sodium": "1160mg(58%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-06_585120527[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6082098250&itemId=11280407529&vendorItemId=78070938174"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6082098250&itemId=11280407529&vendorItemId=78070938174"
  },
  {
   "productId": 148,
@@ -3576,7 +3576,7 @@
   "sodium": "890mg(45%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-03_218710918[7].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2299818667&itemId=3961848908&vendorItemId=3058249701"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2299818667&itemId=3961848908&vendorItemId=3058249701"
  },
  {
   "productId": 149,
@@ -3624,7 +3624,7 @@
   "sodium": "470mg(24%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-03-12_311853344[5].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=33032362&itemId=124235843&vendorItemId=79940983475"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=33032362&itemId=124235843&vendorItemId=79940983475"
  },
  {
   "productId": 151,
@@ -3648,7 +3648,7 @@
   "sodium": "900mg(45%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189348[5].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2438263&itemId=1074661&vendorItemId=3059524073"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2438263&itemId=1074661&vendorItemId=3059524073"
  },
  {
   "productId": 152,
@@ -3672,7 +3672,7 @@
   "sodium": "730mg(37%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189348[7].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=430606&itemId=42103734&vendorItemId=3065095482"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=430606&itemId=42103734&vendorItemId=3065095482"
  },
  {
   "productId": 153,
@@ -3696,7 +3696,7 @@
   "sodium": "940mg(47%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-12-30_569024061[5].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=12531132&itemId=53178439&vendorItemId=3083116809"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=12531132&itemId=53178439&vendorItemId=3083116809"
  },
  {
   "productId": 154,
@@ -3720,7 +3720,7 @@
   "sodium": "1180mg(59%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189348[9].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=12531130&itemId=53178430&vendorItemId=3083116810"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=12531130&itemId=53178430&vendorItemId=3083116810"
  },
  {
   "productId": 155,
@@ -3744,7 +3744,7 @@
   "sodium": "700mg(35%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189348[11].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=431472&itemId=1074672&vendorItemId=3001027798"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=431472&itemId=1074672&vendorItemId=3001027798"
  },
  {
   "productId": 156,
@@ -3792,7 +3792,7 @@
   "sodium": "1140mg(57%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/be2a/0f240bb93deec8f43ef9a89e5b1b1ab267ec9d41ec9eb0588d2f7dc04b78.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5788899221&itemId=9889009068&vendorItemId=77172448436"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5788899221&itemId=9889009068&vendorItemId=77172448436"
  },
  {
   "productId": 158,
@@ -3816,7 +3816,7 @@
   "sodium": "970mg(49%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/153f/e8c1963e5ef9fb69379a3b937029b12095ab9069f12d74e2fd7ab499d56f.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5788435582&itemId=9886703340&vendorItemId=77170386936"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5788435582&itemId=9886703340&vendorItemId=77170386936"
  },
  {
   "productId": 159,
@@ -3840,7 +3840,7 @@
   "sodium": "1530mg(77%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/7637749556695875-dafc1c21-6e9d-4fbe-8fa2-a70e65fb3b86.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6221080120&itemId=12450761933&vendorItemId=3001027790"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6221080120&itemId=12450761933&vendorItemId=3001027790"
  },
  {
   "productId": 160,
@@ -3864,7 +3864,7 @@
   "sodium": "1310mg(66%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189733[3].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=52804386&itemId=2923113658&vendorItemId=73680733722"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=52804386&itemId=2923113658&vendorItemId=73680733722"
  },
  {
   "productId": 161,
@@ -3888,7 +3888,7 @@
   "sodium": "1030mg(52%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-09-30_517963534[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6111501214&itemId=11521245746&vendorItemId=78796359363"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6111501214&itemId=11521245746&vendorItemId=78796359363"
  },
  {
   "productId": 162,
@@ -3912,7 +3912,7 @@
   "sodium": "1690mg(85%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9996/ef87ddff713b3a0451456e3f6af73be38c191e9530d1c349fa1d76dc66e6.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5774472022&itemId=9821933697&vendorItemId=77105466849"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5774472022&itemId=9821933697&vendorItemId=77105466849"
  },
  {
   "productId": 163,
@@ -3936,7 +3936,7 @@
   "sodium": "1080mg(54%)",
   "calcium": "-",
   "imagePath": "http://www.ottogi.co.kr/pds/product/2021-04-27_1020189348[1].jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=161657900&itemId=464301165&vendorItemId=4196791123"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=161657900&itemId=464301165&vendorItemId=4196791123"
  },
  {
   "productId": 164,
@@ -3960,7 +3960,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210526/20210526142610457420.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5569104652&itemId=8862871509&vendorItemId=76149582896"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5569104652&itemId=8862871509&vendorItemId=76149582896"
  },
  {
   "productId": 165,
@@ -3984,7 +3984,7 @@
   "sodium": "1290mg(65%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20181031/20181031094039947080.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=70412464&itemId=235384391&vendorItemId=3000081690"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=70412464&itemId=235384391&vendorItemId=3000081690"
  },
  {
   "productId": 166,
@@ -4008,7 +4008,7 @@
   "sodium": "1330mg(67%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20190329/20190329134704027015.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=56647207&itemId=585296839&vendorItemId=4531865276"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=56647207&itemId=585296839&vendorItemId=4531865276"
  },
  {
   "productId": 167,
@@ -4032,7 +4032,7 @@
   "sodium": "1670mg(84%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160828/20160828180252267047.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14345&itemId=42029&vendorItemId=3000014975"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14345&itemId=42029&vendorItemId=3000014975"
  },
  {
   "productId": 168,
@@ -4056,7 +4056,7 @@
   "sodium": "1710mg(86%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20161222/20161222173338202024.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14341&itemId=42000&vendorItemId=3000014873"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14341&itemId=42000&vendorItemId=3000014873"
  },
  {
   "productId": 169,
@@ -4080,7 +4080,7 @@
   "sodium": "1280mg(64%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20191017/20191017164538419221.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5966993946&itemId=1052125628&vendorItemId=5519779023"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5966993946&itemId=1052125628&vendorItemId=5519779023"
  },
  {
   "productId": 170,
@@ -4104,7 +4104,7 @@
   "sodium": "1420mg(71%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20211129/20211129143003685607.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6250916688&itemId=12670733825&vendorItemId=79937856533"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6250916688&itemId=12670733825&vendorItemId=79937856533"
  },
  {
   "productId": 171,
@@ -4128,7 +4128,7 @@
   "sodium": "1230mg(62%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20211029/20211029173554470090.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6176982744&itemId=12097794036&vendorItemId=79369618925"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6176982744&itemId=12097794036&vendorItemId=79369618925"
  },
  {
   "productId": 172,
@@ -4152,7 +4152,7 @@
   "sodium": "1720mg(86%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160828/20160828175148610039.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14336&itemId=42030&vendorItemId=3000014976"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14336&itemId=42030&vendorItemId=3000014976"
  },
  {
   "productId": 173,
@@ -4176,7 +4176,7 @@
   "sodium": "1820mg(91%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210331/20210331094322224349.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5454178772&itemId=8333094458&vendorItemId=75620931366"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5454178772&itemId=8333094458&vendorItemId=75620931366"
  },
  {
   "productId": 174,
@@ -4200,7 +4200,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20181108/20181108100323994103.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=158802215&itemId=456354200&vendorItemId=4131849620"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=158802215&itemId=456354200&vendorItemId=4131849620"
  },
  {
   "productId": 175,
@@ -4224,7 +4224,7 @@
   "sodium": "1890mg(95%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20220104/20220104100203303661.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6271897654&itemId=12830677250&vendorItemId=80192895414"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6271897654&itemId=12830677250&vendorItemId=80192895414"
  },
  {
   "productId": 176,
@@ -4248,7 +4248,7 @@
   "sodium": "1740mg(87%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20201201/20201201152845652166.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1822027632&itemId=3100316248&vendorItemId=71088099434"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1822027632&itemId=3100316248&vendorItemId=71088099434"
  },
  {
   "productId": 177,
@@ -4272,7 +4272,7 @@
   "sodium": "1280mg(64%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20200309/20200309161335950019.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=117523085&itemId=781065123&vendorItemId=3000014958"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=117523085&itemId=781065123&vendorItemId=3000014958"
  },
  {
   "productId": 178,
@@ -4296,7 +4296,7 @@
   "sodium": "1290mg(65%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20200402/20200402150700530065.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1289002603&itemId=2299565638&vendorItemId=70296506034"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1289002603&itemId=2299565638&vendorItemId=70296506034"
  },
  {
   "productId": 179,
@@ -4320,7 +4320,7 @@
   "sodium": "1880mg(94%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20200402/20200402150730381069.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1258384139&itemId=2259279792&vendorItemId=70256576602"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1258384139&itemId=2259279792&vendorItemId=70256576602"
  },
  {
   "productId": 180,
@@ -4344,7 +4344,7 @@
   "sodium": "1370mg(69%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210514/20210514141844036405.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6059362844&itemId=11134890134&vendorItemId=78413413171"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6059362844&itemId=11134890134&vendorItemId=78413413171"
  },
  {
   "productId": 181,
@@ -4368,7 +4368,7 @@
   "sodium": "1860mg(93%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20200903/20200903145254026008.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4692038009&itemId=3957242420&vendorItemId=71941655990"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4692038009&itemId=3957242420&vendorItemId=71941655990"
  },
  {
   "productId": 182,
@@ -4392,7 +4392,7 @@
   "sodium": "1780mg(89%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20211229/20211229111106238646.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=34372744&itemId=570401985&vendorItemId=4498088080"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=34372744&itemId=570401985&vendorItemId=4498088080"
  },
  {
   "productId": 183,
@@ -4416,7 +4416,7 @@
   "sodium": "1780mg(89%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20211229/20211229111321109650.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2266323&itemId=42017&vendorItemId=3000190787"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2266323&itemId=42017&vendorItemId=3000190787"
  },
  {
   "productId": 184,
@@ -4440,7 +4440,7 @@
   "sodium": "1600mg(80%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20211210/20211210144335714615.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6247752662&itemId=12646937294&vendorItemId=3000014858"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6247752662&itemId=12646937294&vendorItemId=3000014858"
  },
  {
   "productId": 185,
@@ -4464,7 +4464,7 @@
   "sodium": "1750mg(88%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20191002/20191002104316287202.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14327&itemId=41983&vendorItemId=3000014841"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14327&itemId=41983&vendorItemId=3000014841"
  },
  {
   "productId": 186,
@@ -4488,7 +4488,7 @@
   "sodium": "1730mg(87%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160828/20160828154949855007.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14335&itemId=41992&vendorItemId=3000014859"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14335&itemId=41992&vendorItemId=3000014859"
  },
  {
   "productId": 187,
@@ -4512,7 +4512,7 @@
   "sodium": "1160mg(58%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210223/20210223133516654305.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5142952387&itemId=7054202282&vendorItemId=79763614576"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5142952387&itemId=7054202282&vendorItemId=79763614576"
  },
  {
   "productId": 188,
@@ -4536,7 +4536,7 @@
   "sodium": "1590mg(80%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160901/20160901160226167013.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=329005183&itemId=1052125600&vendorItemId=5519778991"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=329005183&itemId=1052125600&vendorItemId=5519778991"
  },
  {
   "productId": 189,
@@ -4560,7 +4560,7 @@
   "sodium": "1300mg(65%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210630/20210630134428778011.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6059362845&itemId=11134890137&vendorItemId=78413413176"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6059362845&itemId=11134890137&vendorItemId=78413413176"
  },
  {
   "productId": 190,
@@ -4584,7 +4584,7 @@
   "sodium": "1180mg(59%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210916/20210916135757171019.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6196866284&itemId=12270416768&vendorItemId=3000014882"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6196866284&itemId=12270416768&vendorItemId=3000014882"
  },
  {
   "productId": 191,
@@ -4608,7 +4608,7 @@
   "sodium": "1440mg(72%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160905/20160905113647023024.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=17310792&itemId=53805418&vendorItemId=3084199096"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=17310792&itemId=53805418&vendorItemId=3084199096"
  },
  {
   "productId": 192,
@@ -4632,7 +4632,7 @@
   "sodium": "910mg(46%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210603/20210603135446969434.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=288446760&itemId=913583465&vendorItemId=5282110508"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=288446760&itemId=913583465&vendorItemId=5282110508"
  },
  {
   "productId": 193,
@@ -4656,7 +4656,7 @@
   "sodium": "1240mg(62%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160901/20160901204213918011.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=12720114&itemId=53805427&vendorItemId=3084199104"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=12720114&itemId=53805427&vendorItemId=3084199104"
  },
  {
   "productId": 194,
@@ -4680,7 +4680,7 @@
   "sodium": "1180mg(59%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160901/20160901202938043003.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2437440&itemId=41994&vendorItemId=3000014869"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2437440&itemId=41994&vendorItemId=3000014869"
  },
  {
   "productId": 195,
@@ -4704,7 +4704,7 @@
   "sodium": "630mg(32%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210305/20210305172943491318.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=80669031&itemId=257728765&vendorItemId=3626748337"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=80669031&itemId=257728765&vendorItemId=3626748337"
  },
  {
   "productId": 196,
@@ -4728,7 +4728,7 @@
   "sodium": "1160mg(58%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20200116/20200116164617633023.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14366&itemId=42032&vendorItemId=3000014971"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14366&itemId=42032&vendorItemId=3000014971"
  },
  {
   "productId": 197,
@@ -4752,7 +4752,7 @@
   "sodium": "1890mg(95%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210507/20210507163650390385.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5509618523&itemId=8584116724&vendorItemId=78497012430"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5509618523&itemId=8584116724&vendorItemId=78497012430"
  },
  {
   "productId": 198,
@@ -4776,7 +4776,7 @@
   "sodium": "1500mg(75%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20200908/20200908092652415021.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2335921919&itemId=4044993332&vendorItemId=72029141356"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2335921919&itemId=4044993332&vendorItemId=72029141356"
  },
  {
   "productId": 199,
@@ -4800,7 +4800,7 @@
   "sodium": "1550mg(78%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210526/20210526140426854416.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5569104687&itemId=8862871646&vendorItemId=76149582978"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5569104687&itemId=8862871646&vendorItemId=76149582978"
  },
  {
   "productId": 200,
@@ -4824,7 +4824,7 @@
   "sodium": "1000mg(50%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20180115/20180115112900376009.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=11390154&itemId=53805416&vendorItemId=3084199097"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=11390154&itemId=53805416&vendorItemId=3084199097"
  },
  {
   "productId": 201,
@@ -4848,7 +4848,7 @@
   "sodium": "1190mg(60%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20190329/20190329135523944019.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=57628799&itemId=296662311&vendorItemId=80009314905"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=57628799&itemId=296662311&vendorItemId=80009314905"
  },
  {
   "productId": 202,
@@ -4872,7 +4872,7 @@
   "sodium": "1620mg(81%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20161111/20161111203448666003.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=12720099&itemId=53805411&vendorItemId=3084199100"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=12720099&itemId=53805411&vendorItemId=3084199100"
  },
  {
   "productId": 203,
@@ -4896,7 +4896,7 @@
   "sodium": "910mg(46%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210923/20210923134035808028.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6131024521&itemId=11691864349&vendorItemId=78966191076"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6131024521&itemId=11691864349&vendorItemId=78966191076"
  },
  {
   "productId": 204,
@@ -4920,7 +4920,7 @@
   "sodium": "1540mg(77%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160901/20160901203537974007.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2437441&itemId=53805410&vendorItemId=3084199106"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2437441&itemId=53805410&vendorItemId=3084199106"
  },
  {
   "productId": 205,
@@ -4944,7 +4944,7 @@
   "sodium": "1200mg(60%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210618/20210618133238435455.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5201641065&itemId=7251138173&vendorItemId=74578817390"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5201641065&itemId=7251138173&vendorItemId=74578817390"
  },
  {
   "productId": 206,
@@ -4968,7 +4968,7 @@
   "sodium": "950mg(48%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210305/20210305172851566314.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=3630576&itemId=17883669&vendorItemId=3001028279"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=3630576&itemId=17883669&vendorItemId=3001028279"
  },
  {
   "productId": 207,
@@ -4992,7 +4992,7 @@
   "sodium": "1500mg(75%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20161111/20161111210737599007.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1343193968&itemId=2370529146&vendorItemId=76757315467"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1343193968&itemId=2370529146&vendorItemId=76757315467"
  },
  {
   "productId": 208,
@@ -5016,7 +5016,7 @@
   "sodium": "1390mg(70%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20211222/20211222103336935629.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6270031251&itemId=12816907267&vendorItemId=80096337610"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6270031251&itemId=12816907267&vendorItemId=80096337610"
  },
  {
   "productId": 209,
@@ -5040,7 +5040,7 @@
   "sodium": "1720mg(86%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20200116/20200116164515118015.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1224218641&itemId=2215795752&vendorItemId=70213532278"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1224218641&itemId=2215795752&vendorItemId=70213532278"
  },
  {
   "productId": 210,
@@ -5064,7 +5064,7 @@
   "sodium": "1750mg(88%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20211229/20211229112930033654.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=3984707&itemId=40301540&vendorItemId=80106371884"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=3984707&itemId=40301540&vendorItemId=80106371884"
  },
  {
   "productId": 211,
@@ -5088,7 +5088,7 @@
   "sodium": "1690mg(85%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20201230/20201230103954957223.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4713979473&itemId=5950567277&vendorItemId=73477519312"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4713979473&itemId=5950567277&vendorItemId=73477519312"
  },
  {
   "productId": 212,
@@ -5112,7 +5112,7 @@
   "sodium": "1460mg(73%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20191002/20191002105033923206.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=338760022&itemId=1079506128&vendorItemId=5579242192"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=338760022&itemId=1079506128&vendorItemId=5579242192"
  },
  {
   "productId": 213,
@@ -5136,7 +5136,7 @@
   "sodium": "1000mg(50%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210618/20210618132755572451.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=72824024&itemId=505884131&vendorItemId=77688566378"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=72824024&itemId=505884131&vendorItemId=77688566378"
  },
  {
   "productId": 214,
@@ -5160,7 +5160,7 @@
   "sodium": "1330mg(67%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20181217/20181217173610342188.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=265472615&itemId=832177151&vendorItemId=5118762922"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=265472615&itemId=832177151&vendorItemId=5118762922"
  },
  {
   "productId": 215,
@@ -5184,7 +5184,7 @@
   "sodium": "1000mg(50%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20160903/20160903220423618100.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=7654201&itemId=39546799&vendorItemId=3059512639"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=7654201&itemId=39546799&vendorItemId=3059512639"
  },
  {
   "productId": 216,
@@ -5208,7 +5208,7 @@
   "sodium": "1270mg(64%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20200908/20200908094133275025.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4535017476&itemId=5481970766&vendorItemId=72781678830"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4535017476&itemId=5481970766&vendorItemId=72781678830"
  },
  {
   "productId": 217,
@@ -5232,7 +5232,7 @@
   "sodium": "1030mg(52%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20220106/20220106163610358665.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6275653428&itemId=12857354153&vendorItemId=80255935825"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6275653428&itemId=12857354153&vendorItemId=80255935825"
  },
  {
   "productId": 218,
@@ -5256,7 +5256,7 @@
   "sodium": "1360mg(68%)",
   "calcium": "-",
   "imagePath": "https://www.samyangfoods.com/upload/product/20210528/20210528171915300428.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=258675196&itemId=810919507&vendorItemId=5062543816"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=258675196&itemId=810919507&vendorItemId=5062543816"
  },
  {
   "productId": 219,
@@ -5280,7 +5280,7 @@
   "sodium": "1,650mg(83%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1728978152952715-76dad10b-c051-479a-9d88-adc3604f3399.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=216695754&itemId=956059605&vendorItemId=3000014850"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=216695754&itemId=956059605&vendorItemId=3000014850"
  },
  {
   "productId": 220,
@@ -5304,7 +5304,7 @@
   "sodium": "1,220mg(61%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/11/03/14/1/df07db44-3ed6-4b0a-bae8-68cb35e3f692.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2342372339&itemId=4058934608&vendorItemId=72043040760"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2342372339&itemId=4058934608&vendorItemId=72043040760"
  },
  {
   "productId": 221,
@@ -5328,7 +5328,7 @@
   "sodium": "1,780mg(89%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2021/04/29/14/7/8438bec4-7e0d-48f0-a5b2-35d9163b84ee.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5429369841&itemId=9421405100&vendorItemId=75511545762"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5429369841&itemId=9421405100&vendorItemId=75511545762"
  },
  {
   "productId": 222,
@@ -5352,7 +5352,7 @@
   "sodium": "1,790mg(90%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6775/99fac9119d0bce6b6444ef7bb546bf637f0eede9809ac8174d02512f2e9e.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5954676620&itemId=10655386479&vendorItemId=77936241912"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5954676620&itemId=10655386479&vendorItemId=77936241912"
  },
  {
   "productId": 223,
@@ -5376,7 +5376,7 @@
   "sodium": "610mg(31%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/341571455995382-19f3a7d9-dd00-466d-8761-ad31c04f9ca5.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=346733423&itemId=1100559552&vendorItemId=5627891770"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=346733423&itemId=1100559552&vendorItemId=5627891770"
  },
  {
   "productId": 224,
@@ -5400,7 +5400,7 @@
   "sodium": "1,700mg(85%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2018/12/07/3018671153/b7e43837-7e83-4769-bfda-b9757c6ccc04.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5867264309&itemId=10255270566&vendorItemId=77537699943"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5867264309&itemId=10255270566&vendorItemId=77537699943"
  },
  {
   "productId": 225,
@@ -5424,7 +5424,7 @@
   "sodium": "1,780mg(89%)\r",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2016/12/21/3078329801/16c8d758-edec-48fa-b26e-5e11a1683889.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2438000&itemId=41997&vendorItemId=3000014865"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2438000&itemId=41997&vendorItemId=3000014865"
  },
  {
   "productId": 226,
@@ -5448,7 +5448,7 @@
   "sodium": "1,610mg(81%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f267/5fb9df43b87aa74ce76c8cd18ca7b9b2d950e6660607099f440ce2411e3c.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14338&itemId=3776613489&vendorItemId=78660446131"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14338&itemId=3776613489&vendorItemId=78660446131"
  },
  {
   "productId": 227,
@@ -5472,7 +5472,7 @@
   "sodium": "1,410mg(71%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/166736662246781-1ef6c003-a8f1-4532-9fff-590d0d6cd3fc.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=21183056&itemId=82696948&vendorItemId=3059563438"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=21183056&itemId=82696948&vendorItemId=3059563438"
  },
  {
   "productId": 228,
@@ -5496,7 +5496,7 @@
   "sodium": "1,590mg(80%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/166096003021334-05fca84f-d5e8-4000-9bbe-93930e4151fb.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5395604&itemId=159976087&vendorItemId=3083984457"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5395604&itemId=159976087&vendorItemId=3083984457"
  },
  {
   "productId": 229,
@@ -5520,7 +5520,7 @@
   "sodium": "1,690mg(85%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/861a/2d109ca946171f863148360ba85ea832e385ac2fc79681bfc4880b97a0a6.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6225007107&itemId=12478479761&vendorItemId=3001028450"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6225007107&itemId=12478479761&vendorItemId=3001028450"
  },
  {
   "productId": 230,
@@ -5544,7 +5544,7 @@
   "sodium": "1,740mg(87%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/155292592502147-2e24cfdf-9627-468e-ae32-b20db73f40cd.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5030537734&itemId=6756527522&vendorItemId=3059571565"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5030537734&itemId=6756527522&vendorItemId=3059571565"
  },
  {
   "productId": 231,
@@ -5568,7 +5568,7 @@
   "sodium": "1,790mg(90%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ccad/776d2f21460c35233efbe409be6c8168ae5b9a7dacb505a3f7e3d073507b.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=985883&itemId=4106045&vendorItemId=3059595623"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=985883&itemId=4106045&vendorItemId=3059595623"
  },
  {
   "productId": 232,
@@ -5592,7 +5592,7 @@
   "sodium": "1,690mg(85%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2018/10/22/14/8/bfc2b7a5-6515-442b-8930-4588bfdb0938.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=986132&itemId=39554875&vendorItemId=4052401621"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=986132&itemId=39554875&vendorItemId=4052401621"
  },
  {
   "productId": 233,
@@ -5616,7 +5616,7 @@
   "sodium": "1,240mg(62%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2018/10/24/3059530010/b6c659cf-f368-431a-8982-87cb929a4558.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5308293137&itemId=7682382206&vendorItemId=74972682426"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5308293137&itemId=7682382206&vendorItemId=74972682426"
  },
  {
   "productId": 234,
@@ -5640,7 +5640,7 @@
   "sodium": "1,050mg(53%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2018/03/08/3000014964/db0cf82e-3b0a-4d49-91c6-e2973c1f3dbd.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=10185062&itemId=6596358&vendorItemId=3000014964"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=10185062&itemId=6596358&vendorItemId=3000014964"
  },
  {
   "productId": 235,
@@ -5664,7 +5664,7 @@
   "sodium": "1,750mg(88%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2016/07/18/3000014967/5cb0236c-1909-41d5-9013-f0e6a453d897.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14363&itemId=42028&vendorItemId=3000014967"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14363&itemId=42028&vendorItemId=3000014967"
  },
  {
   "productId": 236,
@@ -5688,7 +5688,7 @@
   "sodium": "1,690mg(85%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5556130080473-9bd8b207-7f88-4002-8142-8a965c718741.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5722294976&itemId=9574324563&vendorItemId=3000014860"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5722294976&itemId=9574324563&vendorItemId=3000014860"
  },
  {
   "productId": 237,
@@ -5712,7 +5712,7 @@
   "sodium": "1,680mg(84%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2016/03/23/3001028454/a630f240-9a07-4bde-a1d7-3e5dac65acd0.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14329&itemId=1074757&vendorItemId=3001028454"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14329&itemId=1074757&vendorItemId=3001028454"
  },
  {
   "productId": 238,
@@ -5736,7 +5736,7 @@
   "sodium": "990mg(50%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2017/05/31/16/5/81f7efd6-1334-44ea-85b1-c6db87fbb292.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2465990&itemId=39550646&vendorItemId=3059500155"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2465990&itemId=39550646&vendorItemId=3059500155"
  },
  {
   "productId": 239,
@@ -5760,7 +5760,7 @@
   "sodium": "1,010mg(51%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/06/17/15/4/5b4e357e-35b3-4dce-8649-0011c731edb6.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1736588066&itemId=2955958359&vendorItemId=70944459211"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1736588066&itemId=2955958359&vendorItemId=70944459211"
  },
  {
   "productId": 240,
@@ -5784,7 +5784,7 @@
   "sodium": "1,250mg(63%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2016/11/23/3018671158/f9991515-b875-437b-aa72-302aa1a5c51e.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1587100&itemId=12257147&vendorItemId=3018671158"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1587100&itemId=12257147&vendorItemId=3018671158"
  },
  {
   "productId": 241,
@@ -5808,7 +5808,7 @@
   "sodium": "1,980mg(99%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2015/12/29/16/8/9f54978f-d1c2-4c0f-b2c1-29046d30d800.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1533418&itemId=6686835&vendorItemId=71356033294"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1533418&itemId=6686835&vendorItemId=71356033294"
  },
  {
   "productId": 242,
@@ -5832,7 +5832,7 @@
   "sodium": "600mg(30%)",
   "calcium": "110mg(16%)",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/10/07/3083984464/0d5d7e9f-d824-402a-a3de-336517fce69c.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=12670329&itemId=53692644&vendorItemId=3083984464"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=12670329&itemId=53692644&vendorItemId=3083984464"
  },
  {
   "productId": 243,
@@ -5856,7 +5856,7 @@
   "sodium": "1,090mg(55%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2966404718543861-06ae697a-2840-4bb8-85cb-a08da187f471.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1835274249&itemId=12644281994&vendorItemId=3000014968"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1835274249&itemId=12644281994&vendorItemId=3000014968"
  },
  {
   "productId": 244,
@@ -5880,7 +5880,7 @@
   "sodium": "1,190mg(60%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/deec/f64d583fbda899105aef5974e362a165e7d6a37aeb03685832f94a046a9d.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=686516&itemId=40162937&vendorItemId=3060746835"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=686516&itemId=40162937&vendorItemId=3060746835"
  },
  {
   "productId": 245,
@@ -5904,7 +5904,7 @@
   "sodium": "1,270mg(64%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/19792936169216-75a9ef9d-4e58-4141-ad2b-c070abc6b3a0.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=281180480&itemId=892678076&vendorItemId=5245295458"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=281180480&itemId=892678076&vendorItemId=5245295458"
  },
  {
   "productId": 246,
@@ -5928,7 +5928,7 @@
   "sodium": "1,190mg(60%)",
   "calcium": "-",
   "imagePath": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1d9a/f9aedc93550cb7af51c620205321a55a88f00df3c8a414581c4620a81e8d.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5919566758&itemId=10488191295&vendorItemId=71357720055"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5919566758&itemId=10488191295&vendorItemId=71357720055"
  },
  {
   "productId": 247,
@@ -5952,7 +5952,7 @@
   "sodium": "1100mg(55%)",
   "calcium": "44.34mg(6%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2021/12/21/640_B35D6B42B10F48F78F25.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6072608147&itemId=11218178377&vendorItemId=78495666227"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6072608147&itemId=11218178377&vendorItemId=78495666227"
  },
  {
   "productId": 248,
@@ -5976,7 +5976,7 @@
   "sodium": "1660mg(83%)",
   "calcium": "31mg(4%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2021/04/29/640_A9E999F9FAE44BBFB867.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5183470924&itemId=7175647228&vendorItemId=74467282579"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5183470924&itemId=7175647228&vendorItemId=74467282579"
  },
  {
   "productId": 249,
@@ -6000,7 +6000,7 @@
   "sodium": "1180mg(59%)",
   "calcium": "33mg(5%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2021/10/22/640_26FBF121F0064CFEBE16.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=85604487&itemId=270703451&vendorItemId=3655708214"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=85604487&itemId=270703451&vendorItemId=3655708214"
  },
  {
   "productId": 250,
@@ -6024,7 +6024,7 @@
   "sodium": "1840mg(92%)",
   "calcium": "43mg(6%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2020/12/02/640_37D8CDCC5B2449C589F5.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1801449269&itemId=3065106938&vendorItemId=4498088774"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1801449269&itemId=3065106938&vendorItemId=4498088774"
  },
  {
   "productId": 251,
@@ -6072,7 +6072,7 @@
   "sodium": "1040mg(52%)",
   "calcium": "31.36mg(4%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2021/12/21/640_436A7E29CF1B4974BE4F.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6248865742&itemId=11696707276&vendorItemId=78971015108"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6248865742&itemId=11696707276&vendorItemId=78971015108"
  },
  {
   "productId": 253,
@@ -6096,7 +6096,7 @@
   "sodium": "1940mg(97%)",
   "calcium": "41mg(6%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2021/04/29/640_645ECF7D6F2649838F96.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5183470917&itemId=7882148386&vendorItemId=75171661922"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5183470917&itemId=7882148386&vendorItemId=75171661922"
  },
  {
   "productId": 254,
@@ -6120,7 +6120,7 @@
   "sodium": "1640mg(82%)",
   "calcium": "39mg(6%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2021/04/29/640_3C53430347114F17A209.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5354094227&itemId=12148369553&vendorItemId=74467282316"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5354094227&itemId=12148369553&vendorItemId=74467282316"
  },
  {
   "productId": 255,
@@ -6144,7 +6144,7 @@
   "sodium": "1780mg(89%)",
   "calcium": "39.84mg(6%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2020/12/21/640_30FB349A4F354576B0C0.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=14044358&itemId=58112697&vendorItemId=3091127594"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=14044358&itemId=58112697&vendorItemId=3091127594"
  },
  {
   "productId": 256,
@@ -6168,7 +6168,7 @@
   "sodium": "1790mg(90%)",
   "calcium": "36mg(5%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2020/12/18/640_A87F099DC00D42D9B745.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5398682102&itemId=8071134591&vendorItemId=4531813184"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5398682102&itemId=8071134591&vendorItemId=4531813184"
  },
  {
   "productId": 257,
@@ -6192,7 +6192,7 @@
   "sodium": "1610mg(81%)",
   "calcium": "31.59mg(4%)",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2020/12/15/640_160356C9C3F24B8BA399.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2127677516&itemId=58112696&vendorItemId=3091127593"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2127677516&itemId=58112696&vendorItemId=3091127593"
  },
  {
   "productId": 258,
@@ -6216,7 +6216,7 @@
   "sodium": null,
   "calcium": "-",
   "imagePath": "https://shoppulmuone.cdn.ntruss.com/BOS/il/2020/12/01/640_BFEC2A2B49EE45778696.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=179884978&itemId=515126130&vendorItemId=70548747741"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=179884978&itemId=515126130&vendorItemId=70548747741"
  },
  {
   "productId": 259,
@@ -6240,7 +6240,7 @@
   "sodium": "1430mg(72%)",
   "calcium": "-",
   "imagePath": "https://the-mishik.com/web/product/big/202111/051bc7fcf397391681dd9f97dab67cee.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6111154921&itemId=11518580194&vendorItemId=78793711932"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6111154921&itemId=11518580194&vendorItemId=78793711932"
  },
  {
   "productId": 260,
@@ -6264,7 +6264,7 @@
   "sodium": "1370mg(69%)",
   "calcium": "-",
   "imagePath": "https://the-mishik.com/web/product/big/202111/343b33007c17366c17ce396a1aa5a3fa.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6111155012&itemId=11518581063&vendorItemId=78793711946"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6111155012&itemId=11518581063&vendorItemId=78793711946"
  },
  {
   "productId": 261,
@@ -6336,7 +6336,7 @@
   "sodium": "1480mg(74%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1528711935.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5342614000&itemId=7835924403&vendorItemId=76664655726"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5342614000&itemId=7835924403&vendorItemId=76664655726"
  },
  {
   "productId": 264,
@@ -6360,7 +6360,7 @@
   "sodium": "1940mg(97%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1528711508.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1569099560&itemId=2683177501&vendorItemId=79690412189"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1569099560&itemId=2683177501&vendorItemId=79690412189"
  },
  {
   "productId": 265,
@@ -6408,7 +6408,7 @@
   "sodium": "2110mg(106%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1494551783.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6281651064&itemId=12902040245&vendorItemId=80166991973"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6281651064&itemId=12902040245&vendorItemId=80166991973"
  },
  {
   "productId": 267,
@@ -6552,7 +6552,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1196922275.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6122230558&itemId=11612800669&vendorItemId=78887482749"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6122230558&itemId=11612800669&vendorItemId=78887482749"
  },
  {
   "productId": 273,
@@ -6600,7 +6600,7 @@
   "sodium": "1900mg(95%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1628762153.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6062051192&itemId=11151758760&vendorItemId=78430145216"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6062051192&itemId=11151758760&vendorItemId=78430145216"
  },
  {
   "productId": 275,
@@ -6624,7 +6624,7 @@
   "sodium": "2400mg(120%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1628761774.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6065203780&itemId=11171470145&vendorItemId=78449484987"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6065203780&itemId=11171470145&vendorItemId=78449484987"
  },
  {
   "productId": 276,
@@ -6648,7 +6648,7 @@
   "sodium": "1830mg(92%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1628761438.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6066692489&itemId=11181292454&vendorItemId=78459186464"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6066692489&itemId=11181292454&vendorItemId=78459186464"
  },
  {
   "productId": 277,
@@ -6672,7 +6672,7 @@
   "sodium": "2200mg(110%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1628746329.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6133612765&itemId=11713754226&vendorItemId=78987908615"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6133612765&itemId=11713754226&vendorItemId=78987908615"
  },
  {
   "productId": 278,
@@ -6696,7 +6696,7 @@
   "sodium": "2200mg(110%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1628746011.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6131955016&itemId=11699515941&vendorItemId=78973812914"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6131955016&itemId=11699515941&vendorItemId=78973812914"
  },
  {
   "productId": 279,
@@ -6720,7 +6720,7 @@
   "sodium": "1450mg(73%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1625711550.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5387822318&itemId=8024668090&vendorItemId=75313354409"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5387822318&itemId=8024668090&vendorItemId=75313354409"
  },
  {
   "productId": 280,
@@ -6864,7 +6864,7 @@
   "sodium": "2060mg(103%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1604885363.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4711024233&itemId=5944270078&vendorItemId=73502999564"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4711024233&itemId=5944270078&vendorItemId=73502999564"
  },
  {
   "productId": 286,
@@ -6912,7 +6912,7 @@
   "sodium": "1660mg(83%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1604884461.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2333623307&itemId=4040032075&vendorItemId=72024194927"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2333623307&itemId=4040032075&vendorItemId=72024194927"
  },
  {
   "productId": 288,
@@ -6936,7 +6936,7 @@
   "sodium": "1960mg(98%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1584090461.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1421611754&itemId=3725685826&vendorItemId=79937660959"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1421611754&itemId=3725685826&vendorItemId=79937660959"
  },
  {
   "productId": 289,
@@ -7008,7 +7008,7 @@
   "sodium": "1970mg(99%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1561446055.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6180337849&itemId=12128538562&vendorItemId=79400191904"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6180337849&itemId=12128538562&vendorItemId=79400191904"
  },
  {
   "productId": 292,
@@ -7032,7 +7032,7 @@
   "sodium": "1980mg(99%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1561445721.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1569099560&itemId=2683177501&vendorItemId=79690412189"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1569099560&itemId=2683177501&vendorItemId=79690412189"
  },
  {
   "productId": 293,
@@ -7056,7 +7056,7 @@
   "sodium": "1470mg(74%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1525767468.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4965553812&itemId=6583175791&vendorItemId=73877144264"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4965553812&itemId=6583175791&vendorItemId=73877144264"
  },
  {
   "productId": 294,
@@ -7080,7 +7080,7 @@
   "sodium": "2070mg(104%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1570525358.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=318110127&itemId=1015412560&vendorItemId=5451151061"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=318110127&itemId=1015412560&vendorItemId=5451151061"
  },
  {
   "productId": 295,
@@ -7104,7 +7104,7 @@
   "sodium": "1950mg(98%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1570525141.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=318108036&itemId=1015404612&vendorItemId=5451137521"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=318108036&itemId=1015404612&vendorItemId=5451137521"
  },
  {
   "productId": 296,
@@ -7128,7 +7128,7 @@
   "sodium": "1490mg(75%)",
   "calcium": "-",
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1473643374.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=318108041&itemId=3726369552&vendorItemId=79994538767"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=318108041&itemId=3726369552&vendorItemId=79994538767"
  },
  {
   "productId": 297,
@@ -7200,7 +7200,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://www.hanilfood.co.kr/ebiz/hanilfood/admin/files/1154319197.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=95258507&itemId=294088493&vendorItemId=3723519582"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=95258507&itemId=294088493&vendorItemId=3723519582"
  },
  {
   "productId": 300,
@@ -7224,7 +7224,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2016/08/05/12/6/3ed4e995-f483-449d-a0b1-c270207111e6.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6205693664&itemId=12339670620&vendorItemId=3039876142"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6205693664&itemId=12339670620&vendorItemId=3039876142"
  },
  {
   "productId": 301,
@@ -7272,7 +7272,7 @@
   "sodium": "1430mg(72%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/98ea/5dc0852666212d6ef2054d53223eff4976e5c3db63c8acb67a1eabf65404.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6290601492&itemId=12959913481&vendorItemId=80224099814"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6290601492&itemId=12959913481&vendorItemId=80224099814"
  },
  {
   "productId": 303,
@@ -7392,7 +7392,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://bgf-cu.xcache.kinxcdn.com/product/8801045574219.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4800440819&itemId=6161554542&vendorItemId=73457654437"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4800440819&itemId=6161554542&vendorItemId=73457654437"
  },
  {
   "productId": 308,
@@ -7416,7 +7416,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://bgf-cu.xcache.kinxcdn.com/product/8801045571836.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6259864949&itemId=12739580646&vendorItemId=80005996453"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6259864949&itemId=12739580646&vendorItemId=80005996453"
  },
  {
   "productId": 309,
@@ -7440,7 +7440,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://bgf-cu.xcache.kinxcdn.com/product/8809296883074.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4852898187&itemId=6286049713&vendorItemId=75477892625"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4852898187&itemId=6286049713&vendorItemId=75477892625"
  },
  {
   "productId": 310,
@@ -7464,7 +7464,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://bgf-cu.xcache.kinxcdn.com/product/8801045576480.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6259864934&itemId=12739580480&vendorItemId=80005990258"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6259864934&itemId=12739580480&vendorItemId=80005990258"
  },
  {
   "productId": 311,
@@ -7488,7 +7488,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://bgf-cu.xcache.kinxcdn.com/product/8801073143296.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6117368676&itemId=11571191433&vendorItemId=78846123048"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6117368676&itemId=11571191433&vendorItemId=78846123048"
  },
  {
   "productId": 312,
@@ -7512,7 +7512,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://gs25appimg.gsretail.com/imgsvr/item/GD_8809246991705_001.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6122334076&itemId=11613705624&vendorItemId=79054441513"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6122334076&itemId=11613705624&vendorItemId=79054441513"
  },
  {
   "productId": 313,
@@ -7536,7 +7536,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://gs25appimg.gsretail.com/imgsvr/item/GD_8801073114722_001.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6185693487&itemId=12175985682&vendorItemId=79447274082"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6185693487&itemId=12175985682&vendorItemId=79447274082"
  },
  {
   "productId": 314,
@@ -7560,7 +7560,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://gs25appimg.gsretail.com/imgsvr/item/GD_8809296881094_001.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6100767960&itemId=11430863252&vendorItemId=77037878224"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6100767960&itemId=11430863252&vendorItemId=77037878224"
  },
  {
   "productId": 315,
@@ -7584,7 +7584,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://gs25appimg.gsretail.com/imgsvr/item/GD_8809296881513_001.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6189972771&itemId=12211134609&vendorItemId=79482031938"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6189972771&itemId=12211134609&vendorItemId=79482031938"
  },
  {
   "productId": 316,
@@ -7608,7 +7608,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://img.danawa.com/prod_img/500000/129/402/img/14402129_1.jpg?shrink=330:330&_v=20210607161257",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1977443179&itemId=3363735651&vendorItemId=71350468388"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1977443179&itemId=3363735651&vendorItemId=71350468388"
  },
  {
   "productId": 317,
@@ -7632,7 +7632,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://img.danawa.com/prod_img/500000/139/401/img/14401139_1.jpg?shrink=330:330&_v=20210607154730",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5144747195&itemId=7060418695&vendorItemId=71310113264"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5144747195&itemId=7060418695&vendorItemId=71310113264"
  },
  {
   "productId": 318,
@@ -7656,7 +7656,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://gs25appimg.gsretail.com/imgsvr/item/GD_8809296882992_002.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=2047247746&itemId=3480270718&vendorItemId=71795031752"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=2047247746&itemId=3480270718&vendorItemId=71795031752"
  },
  {
   "productId": 319,
@@ -7680,7 +7680,7 @@
   "sodium": null,
   "calcium": null,
   "imagePath": "http://gs25appimg.gsretail.com/imgsvr/item/GD_8809296882831_005.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6078702532&itemId=11256626435&vendorItemId=76823274052"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6078702532&itemId=11256626435&vendorItemId=76823274052"
  },
  {
   "productId": 320,
@@ -7704,7 +7704,7 @@
   "sodium": "1800mg(90%)",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/53/50/93/item/1000018935053_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6135902998&itemId=11733439471&vendorItemId=79007392202"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6135902998&itemId=11733439471&vendorItemId=79007392202"
  },
  {
   "productId": 321,
@@ -7728,7 +7728,7 @@
   "sodium": "1160mg(58%)",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/23/19/26/item/1000021261923_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5019201483&itemId=6727959779&vendorItemId=76170608756"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5019201483&itemId=6727959779&vendorItemId=76170608756"
  },
  {
   "productId": 322,
@@ -7752,7 +7752,7 @@
   "sodium": "1460g(73%)",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/01/49/85/item/1000036854901_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6162111468&itemId=11965880577&vendorItemId=79238434069"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6162111468&itemId=11965880577&vendorItemId=79238434069"
  },
  {
   "productId": 323,
@@ -7776,7 +7776,7 @@
   "sodium": "1760mg",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/17/08/68/item/1000026680817_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=77380640&itemId=250142199&vendorItemId=77018875628"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=77380640&itemId=250142199&vendorItemId=77018875628"
  },
  {
   "productId": 324,
@@ -7800,7 +7800,7 @@
   "sodium": "2200mg(110%)",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/78/08/68/item/1000026680878_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6082300483&itemId=11281747516&vendorItemId=79583954035"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6082300483&itemId=11281747516&vendorItemId=79583954035"
  },
  {
   "productId": 325,
@@ -7824,7 +7824,7 @@
   "sodium": "1860mg(93%)",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/08/29/33/item/1000030332908_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6163678440&itemId=11979429071&vendorItemId=79251923922"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6163678440&itemId=11979429071&vendorItemId=79251923922"
  },
  {
   "productId": 326,
@@ -7848,7 +7848,7 @@
   "sodium": "1700mg(85%)",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/16/53/65/item/1000040655316_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1540868855&itemId=2639311408&vendorItemId=79845903997"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1540868855&itemId=2639311408&vendorItemId=79845903997"
  },
  {
   "productId": 327,
@@ -7872,7 +7872,7 @@
   "sodium": null,
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/10/12/12/item/1000041121210_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1180051799&itemId=2159818135&vendorItemId=70589171537"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1180051799&itemId=2159818135&vendorItemId=70589171537"
  },
  {
   "productId": 328,
@@ -7896,7 +7896,7 @@
   "sodium": "729mg(36%)",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/07/93/55/item/1000035559307_i1_180.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1643385175&itemId=2801338118&vendorItemId=70790950400"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1643385175&itemId=2801338118&vendorItemId=70790950400"
  },
  {
   "productId": 329,
@@ -7944,7 +7944,7 @@
   "sodium": "1890mg(95%)",
   "calcium": "-",
   "imagePath": "http://item.ssgcdn.com/00/84/46/item/1000148468400_i1_1200.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1581447717&itemId=2703602746&vendorItemId=71657691738"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1581447717&itemId=2703602746&vendorItemId=71657691738"
  },
  {
   "productId": 331,
@@ -7968,7 +7968,7 @@
   "sodium": "1880mg(94%)",
   "calcium": "-",
   "imagePath": "https://image.homeplus.kr/td/faefa641-248d-4427-8ef8-5ccb94cc9ad3",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=4515996048&itemId=5438313919&vendorItemId=79238649178"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=4515996048&itemId=5438313919&vendorItemId=79238649178"
  },
  {
   "productId": 332,
@@ -7992,7 +7992,7 @@
   "sodium": "1740mg(87%)",
   "calcium": "-",
   "imagePath": "https://image.homeplus.kr/td/321c5b00-778e-492a-8f87-e02597d1534f",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6162141169&itemId=11966098148&vendorItemId=79238649300"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6162141169&itemId=11966098148&vendorItemId=79238649300"
  },
  {
   "productId": 333,
@@ -8016,7 +8016,7 @@
   "sodium": "1350mg(68%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5cfd/9293d76b6744d8e3a764992fe2eea74be3091e81da2fa6f032bc94e944f8.JPG",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6097889109&itemId=11407687445&vendorItemId=78626000177"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6097889109&itemId=11407687445&vendorItemId=78626000177"
  },
  {
   "productId": 334,
@@ -8040,7 +8040,7 @@
   "sodium": "1310mg(66%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d0bc/b7defd839b3cfe8f7d2bf5e03dd1c614630cb0c094c34ceeab31df075d27.JPG",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6007299099&itemId=10890177246&vendorItemId=78170048111"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6007299099&itemId=10890177246&vendorItemId=78170048111"
  },
  {
   "productId": 335,
@@ -8064,7 +8064,7 @@
   "sodium": "1323mg(66%)",
   "calcium": "-",
   "imagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/67ca/d9292db6a07ce6eb3270d2ded9f50b9def9fb69356791390d69e6c078c39.png",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6240044436&itemId=12589559960&vendorItemId=79857482825"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6240044436&itemId=12589559960&vendorItemId=79857482825"
  },
  {
   "productId": 336,
@@ -8088,7 +8088,7 @@
   "sodium": "1630mg(82%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f54b/2e938349042ff9a4ffdf0f4abd3c8184b5abb8378be1e71432a68993b531.JPG",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5251687663&itemId=7439577294&vendorItemId=74730478686"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5251687663&itemId=7439577294&vendorItemId=74730478686"
  },
  {
   "productId": 337,
@@ -8112,7 +8112,7 @@
   "sodium": "1760mg(88%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2018/03/01/11/7/5cfdde1f-cf4a-4904-8463-cf8b2ff0c808.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5581158002&itemId=60407566&vendorItemId=70954389665"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5581158002&itemId=60407566&vendorItemId=70954389665"
  },
  {
   "productId": 338,
@@ -8136,7 +8136,7 @@
   "sodium": "1919mg(96%)",
   "calcium": "-",
   "imagePath": "https://cdn.imweb.me/upload/S20201117c57ca4546114c/125f67a3088d7.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6126958831&itemId=11655044717&vendorItemId=74664744981"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6126958831&itemId=11655044717&vendorItemId=74664744981"
  },
  {
   "productId": 339,
@@ -8160,7 +8160,7 @@
   "sodium": null,
   "calcium": "-",
   "imagePath": "https://cdn.imweb.me/upload/S20201117c57ca4546114c/125f67a3088d7.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6126958831&itemId=11655044721&vendorItemId=74704880251"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6126958831&itemId=11655044721&vendorItemId=74704880251"
  },
  {
   "productId": 340,
@@ -8184,7 +8184,7 @@
   "sodium": "1934mg(97%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/62c8/9d1d25e528ca0cde3f9faabb76dd6ec90839dc3e12d1fe8fc72eadbc1faf.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6067750857&itemId=11187772572&vendorItemId=79822211150"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6067750857&itemId=11187772572&vendorItemId=79822211150"
  },
  {
   "productId": 341,
@@ -8208,7 +8208,7 @@
   "sodium": null,
   "calcium": "-",
   "imagePath": "https://cdn.imweb.me/upload/S20201117c57ca4546114c/0a67e9236299a.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5888101989&itemId=10346233489&vendorItemId=77628425436"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5888101989&itemId=10346233489&vendorItemId=77628425436"
  },
  {
   "productId": 342,
@@ -8352,7 +8352,7 @@
   "sodium": "1830mg(92%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b595/8d59c481fd6eebd3bc52088ba5bc7b2a52737d203909f5a8a72267c45842.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5587855254&itemId=8951641500&vendorItemId=76238159899"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5587855254&itemId=8951641500&vendorItemId=76238159899"
  },
  {
   "productId": 348,
@@ -8376,7 +8376,7 @@
   "sodium": "1471mg(74%)",
   "calcium": "-",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d5ac/36729133372dab15301b4a579bc5b4fe483eeda38545a9e080a58158520c.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6058369568&itemId=11129809501&vendorItemId=78408412460"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6058369568&itemId=11129809501&vendorItemId=78408412460"
  },
  {
   "productId": 349,
@@ -8400,7 +8400,7 @@
   "sodium": "1748mg(87%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/35de/af98eb7942793851182c5032825b3e288c9ed5c6b9d7461c8a42059be270.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6058381274&itemId=11129859339&vendorItemId=78408461391"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6058381274&itemId=11129859339&vendorItemId=78408461391"
  },
  {
   "productId": 350,
@@ -8424,7 +8424,7 @@
   "sodium": "1716mg(86%)",
   "calcium": "67mg(10%)",
   "imagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2a4a/f148bc36bc4dd9f6eb8e2f028a911d67f8dcf72e7fbcffbedeee92ef9e85.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5637941671&itemId=9188999927&vendorItemId=75619208627"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5637941671&itemId=9188999927&vendorItemId=75619208627"
  },
  {
   "productId": 351,
@@ -8448,7 +8448,7 @@
   "sodium": "260mg(13%)",
   "calcium": "-",
   "imagePath": "http://img.danawa.com/prod_img/500000/851/439/img/7439851_1.jpg?shrink=500:500&_v=20190312172318",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=6052446433&itemId=11096673435&vendorItemId=79545401933"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=6052446433&itemId=11096673435&vendorItemId=79545401933"
  },
  {
   "productId": 352,
@@ -8472,7 +8472,7 @@
   "sodium": "731mg(37%)",
   "calcium": "-",
   "imagePath": "http://img.danawa.com/prod_img/500000/762/791/img/10791762_1.jpg?shrink=500:500&_v=20200312102251",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5587861343&itemId=8951678691&vendorItemId=76238196928"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5587861343&itemId=8951678691&vendorItemId=76238196928"
  },
  {
   "productId": 353,
@@ -8496,7 +8496,7 @@
   "sodium": "398mg(20%)",
   "calcium": "-",
   "imagePath": "http://img.danawa.com/prod_img/500000/902/439/img/7439902_1.jpg?shrink=500:500",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=122762813&itemId=364115358&vendorItemId=3884486523"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=122762813&itemId=364115358&vendorItemId=3884486523"
  },
  {
   "productId": 354,
@@ -8520,7 +8520,7 @@
   "sodium": "743mg(37%)",
   "calcium": "-",
   "imagePath": "http://img.danawa.com/prod_img/500000/521/792/img/10792521_1.jpg?shrink=500:500&_v=20200312104825",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=267012850&itemId=836902721&vendorItemId=79854315938"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=267012850&itemId=836902721&vendorItemId=79854315938"
  },
  {
   "productId": 355,
@@ -8544,7 +8544,7 @@
   "sodium": "886mg(44%)",
   "calcium": "-",
   "imagePath": "http://img.danawa.com/prod_img/500000/983/439/img/7439983_1.jpg?shrink=500:500&_v=20190312172755",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5587824860&itemId=8951473346&vendorItemId=76237991635"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5587824860&itemId=8951473346&vendorItemId=76237991635"
  },
  {
   "productId": 356,
@@ -8568,7 +8568,7 @@
   "sodium": "1420mg(71%)",
   "calcium": "-",
   "imagePath": "https://data.0app0.com/diet/shop/goods/20201123/20201123110806_0447040593_1.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5408624079&itemId=8126066788&vendorItemId=75414333261"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5408624079&itemId=8126066788&vendorItemId=75414333261"
  },
  {
   "productId": 357,
@@ -8592,7 +8592,7 @@
   "sodium": "1630mg(82%)",
   "calcium": "-",
   "imagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c3a1/b524683e84554eb338fd7fc5ff18b904d24b5796dcfd7e1f909a202285f8.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5660953307&itemId=9291364040&vendorItemId=76301909619"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5660953307&itemId=9291364040&vendorItemId=76301909619"
  },
  {
   "productId": 358,
@@ -8616,7 +8616,7 @@
   "sodium": "2377.3mg(118.3%)",
   "calcium": "-",
   "imagePath": "http://img.danawa.com/prod_img/500000/768/961/img/13961768_1.jpg?shrink=500:500&_v=20210421132311",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=5166966703&itemId=7120019942&vendorItemId=74411845081"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=5166966703&itemId=7120019942&vendorItemId=74411845081"
  },
  {
   "productId": 359,
@@ -8688,7 +8688,7 @@
   "sodium": "1630.7mg(81.5%)",
   "calcium": "-",
   "imagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/images/2018/07/25/13/6/dfa7f19b-ea60-450e-87a4-021cff3899fe.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=3497915&itemId=16551986&vendorItemId=3833155788"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=3497915&itemId=16551986&vendorItemId=3833155788"
  },
  {
   "productId": 362,
@@ -8712,7 +8712,7 @@
   "sodium": "1873mg(94%)",
   "calcium": "-",
   "imagePath": "http://th4.tmon.kr/thumbs/image/45f/1f5/8be/1f847a4da_700x700_95_FIT.jpg",
-  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=CFM95079688&pageKey=1441088635&itemId=2484985634&vendorItemId=71247782704"
+  "shopUrl": "https://link.coupang.com/re/CSHARESDP?lptag=$recommenderId&pageKey=1441088635&itemId=2484985634&vendorItemId=71247782704"
  }
 ]
 }

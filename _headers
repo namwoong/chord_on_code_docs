@@ -1,5 +1,0 @@
-# a path:
-/ramen_portal/popular_trend.html
-  # headers for that path:
-  X-Frame-Options: allow-from https://trends.google.co.kr/
-  Access-Control-Allow-Origin: *

@@ -2,3 +2,4 @@
 /ramen_portal/popular_trend.html
   # headers for that path:
   X-Frame-Options: allow-from *
+  Access-Control-Allow-Origin: *
